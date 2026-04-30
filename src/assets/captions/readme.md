@@ -249,7 +249,7 @@ No translations yet.
 
 ## 2025
 
-33 completed translations.
+34 completed translations.
 
 1. Opening Remarks
 2. Accessible Design Patterns for 2025
@@ -281,6 +281,7 @@ No translations yet.
   	- French; Andy Amado
 12. Auditing WordPress Plugin Accessibility: A Practical Journey from Code to Compliance
   	- Spanish; Jordan Gilavert
+  	- French; Andy Amado
 13. Demystifying Screen Readers: Your Guided Intro to Manual Accessibility Testing for WordPress Sites
   	- Spanish; Luz Zuniga
 14. Technical Checklist: Testing WordPress Themes and Plugins for Accessibility
