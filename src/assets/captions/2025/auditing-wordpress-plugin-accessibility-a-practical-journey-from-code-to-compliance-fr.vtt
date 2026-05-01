@@ -1,0 +1,3269 @@
+WEBVTT
+
+00:00:00.735 --> 00:00:03.197
+<v title="Annonceur"> Merci à nos sponsors.
+
+00:00:03.429 --> 00:00:06.311
+Sponsor Platine : Gravity Forms.
+
+00:00:06.331 --> 00:00:10.456
+Créez des outils accessibles et puissants
+Formulaires WordPress avec Gravity Forms.
+
+00:00:10.476 --> 00:00:12.265
+Des outils flexibles pour les créateurs,
+
+00:00:12.285 --> 00:00:15.341
+développeurs et équipes de toutes tailles.
+
+00:00:15.572 --> 00:00:18.074
+Sponsor Platine : WP Engine.
+
+00:00:18.094 --> 00:00:20.696
+WP Engine fournit le plus fiable
+
+00:00:20.716 --> 00:00:23.207
+et des produits WordPress de confiance
+pour les entreprises,
+
+00:00:23.227 --> 00:00:26.839
+marques et agences de toutes tailles.
+
+00:00:26.859 --> 00:00:28.834
+Sponsor Platine : Woo.
+
+00:00:29.077 --> 00:00:33.318
+WooCommerce est une source ouverte
+Plateforme de commerce électronique construite sur WordPress,
+
+00:00:33.338 --> 00:00:35.148
+aider les commerçants du monde entier
+
+00:00:35.168 --> 00:00:38.578
+vendre, gérer,
+et développer leurs entreprises.
+
+00:00:38.948 --> 00:00:42.232
+Sponsors Or :
+Accessibilité Web Ally.
+
+00:00:42.573 --> 00:00:43.705
+Égaliser le numérique –
+
+00:00:43.725 --> 00:00:46.003
+Des sites web pour tous.
+
+00:00:46.023 --> 00:00:47.384
+GoDaddy,
+
+00:00:47.404 --> 00:00:49.439
+Hébergement Web GreenGeeks,
+
+00:00:49.459 --> 00:00:50.784
+Yaourt.
+
+00:00:51.368 --> 00:00:53.881
+Sponsors argent : AAArdvark,
+
+00:00:53.901 --> 00:00:57.066
+CodeGeek – Votre vision,
+Notre talent, un thème,
+
+00:00:57.332 --> 00:00:58.697
+Iris cinétique,
+
+00:00:58.898 --> 00:01:00.017
+Kinsta,
+
+00:01:00.037 --> 00:01:01.186
+Pressable,
+
+00:01:01.206 --> 00:01:02.779
+Deuxième mélodie.
+
+00:01:03.391 --> 00:01:05.051
+Sponsors Bronze,
+
+00:01:05.071 --> 00:01:06.972
+9 planètes hébergeant,
+
+00:01:06.992 --> 00:01:08.236
+S'engager,
+
+00:01:08.256 --> 00:01:09.650
+Attirer l'attention,
+
+00:01:09.853 --> 00:01:11.119
+Multipoints,
+
+00:01:11.526 --> 00:01:12.713
+NerdPress,
+
+00:01:13.053 --> 00:01:14.359
+Studio Osom,
+
+00:01:14.379 --> 00:01:18.404
+OZeWAI –
+Initiative australienne pour l'accessibilité du Web,
+
+00:01:18.692 --> 00:01:20.175
+Planificateur de progrès,
+
+00:01:20.195 --> 00:01:21.892
+QualityLogic,
+
+00:01:21.912 --> 00:01:22.957
+Pointu,
+
+00:01:23.165 --> 00:01:25.274
+Planifiez simplement vos rendez-vous,
+
+00:01:25.294 --> 00:01:26.531
+SiteGround,
+
+00:01:26.551 --> 00:01:28.072
+StellarWP,
+
+00:01:28.388 --> 00:01:29.711
+Termageddon,
+
+00:01:29.731 --> 00:01:30.861
+WebOui.
+
+00:01:35.679 --> 00:01:39.136
+<v title="SHEROSE BHADRUDDIN"> Bienvenue
+À la Journée de l'accessibilité WordPress 2025.
+
+00:01:39.156 --> 00:01:40.572
+Je m'appelle Sherose Bhadruddin,
+
+00:01:40.592 --> 00:01:44.734
+et je suis consultante en accessibilité numérique
+avec l'Université de Caroline du Nord.
+
+00:01:44.754 --> 00:01:48.579
+Merci de vous être joint à nous pour l'audit.
+Accessibilité des plugins WordPress :
+
+00:01:48.599 --> 00:01:52.401
+Un parcours pratique à partir du code
+à la conformité avec Osdeibi Acurero.
+
+00:01:52.681 --> 00:01:55.628
+C'est un passionné de technologie à plein temps.
+et créateur de contenu
+
+00:01:55.648 --> 00:01:59.148
+dédié à démystifier le SEO
+et WordPress pour les développeurs,
+
+00:01:59.168 --> 00:02:01.657
+designers et professionnels de l'UX/UI.
+
+00:02:01.677 --> 00:02:03.235
+Sur sa chaîne YouTube,
+
+00:02:03.255 --> 00:02:05.482
+SEO en espagnol,
+
+00:02:05.502 --> 00:02:07.922
+Il partage des idées pratiques
+et tutoriels
+
+00:02:07.942 --> 00:02:10.597
+pour montrer que le SEO
+n'est pas seulement une discipline marketing,
+
+00:02:10.617 --> 00:02:13.897
+c'est une partie essentielle
+du flux de travail quotidien du développement.
+
+00:02:13.917 --> 00:02:16.187
+Avec plus de 10 ans d'expérience
+expérience en programmation
+
+00:02:16.207 --> 00:02:17.682
+et une décennie d'expérience avec WordPress,
+
+00:02:17.702 --> 00:02:20.947
+Il a perfectionné ses compétences en PHP
+et le développement full-stack.
+
+00:02:20.967 --> 00:02:22.004
+Au cours des six dernières années,
+
+00:02:22.024 --> 00:02:24.403
+Il s'est spécialisé dans le référencement technique.
+et pour les deux derniers
+
+00:02:24.423 --> 00:02:26.466
+Il a développé avec Next.js.
+
+00:02:26.486 --> 00:02:29.741
+tout en défendant
+Accessibilité conforme aux WCAG
+
+00:02:29.761 --> 00:02:33.121
+parce qu'il estime que le web devrait être ouvert
+et utilisable par tous.
+
+00:02:33.141 --> 00:02:35.706
+Il est également attaché à l'apprentissage tout au long de la vie.
+et la croissance communautaire,
+
+00:02:35.726 --> 00:02:38.404
+gagner régulièrement du cloud
+certifications en informatique,
+
+00:02:38.424 --> 00:02:40.463
+et partager de nouvelles connaissances avec ses pairs.
+
+00:02:40.483 --> 00:02:43.159
+N'hésitez pas à ajouter vos questions
+dans la section questions-réponses Zoom,
+
+00:02:43.179 --> 00:02:45.426
+et nous leur répondrons
+à la fin de la séance.
+
+00:02:45.446 --> 00:02:48.083
+Vous pouvez utiliser le chat
+pour entrer en contact avec les autres participants.
+
+00:02:51.806 --> 00:02:53.120
+<v title="OSDEIBI ACURERO"> Bonjour à tous,
+
+00:02:53.140 --> 00:02:55.173
+Je suis Osdeibi Acurero, du Venezuela.
+
+00:02:55.740 --> 00:02:58.985
+J'ai travaillé avec WordPress
+depuis plus de 10 ans,
+
+00:02:59.005 --> 00:03:00.721
+pendant laquelle j'ai travaillé
+
+00:03:00.741 --> 00:03:04.764
+en tant que développeur à temps plein
+avec de solides connaissances en PHP.
+
+00:03:05.365 --> 00:03:06.342
+Pendant cette période,
+
+00:03:06.362 --> 00:03:11.677
+J'ai acquis une compétence qui m'a permis
+pour créer des outils et des sites web performants,
+
+00:03:11.697 --> 00:03:15.397
+mais pendant longtemps,
+J'ai négligé l'accessibilité.
+
+00:03:15.417 --> 00:03:17.551
+Mais une fois que je lui ai accordé de l'importance,
+
+00:03:17.571 --> 00:03:21.755
+J'ai constaté comment cela a amélioré mon projet.
+et mes compétences en programmation.
+
+00:03:21.775 --> 00:03:24.289
+L'une de mes plus grandes leçons
+c'était comprendre
+
+00:03:24.309 --> 00:03:27.661
+que chaque personne
+voit les choses différemment,
+
+00:03:27.681 --> 00:03:29.590
+y compris le site.
+
+00:03:29.844 --> 00:03:31.535
+Aujourd'hui, je vais vous expliquer.
+
+00:03:31.555 --> 00:03:36.271
+pourquoi il est important d'appliquer l'accessibilité
+dans le développement de votre plugin.
+
+00:03:36.291 --> 00:03:40.565
+Nous devons nous souvenir que
+Les plugins constituent l'épine dorsale de WordPress.
+
+00:03:40.585 --> 00:03:46.056
+et s'ils ne sont pas accessibles,
+Nous excluons un grand groupe de personnes.
+
+00:03:46.582 --> 00:03:49.185
+Pour que cela soit clair,
+Je vais vous montrer quelques exemples
+
+00:03:49.205 --> 00:03:50.902
+et quelques conseils clés
+
+00:03:50.922 --> 00:03:54.245
+pour résoudre votre problème d'accessibilité
+dans vos plugins.
+
+00:03:54.265 --> 00:03:58.106
+Aujourd'hui, nous allons parler
+à propos de plusieurs sujets
+
+00:03:58.405 --> 00:04:01.964
+cela vous aidera non seulement
+dans le développement de plugins WordPress,
+
+00:04:01.984 --> 00:04:06.011
+mais aussi dans la création d'équipes
+ou un site complet.
+
+00:04:06.295 --> 00:04:10.327
+N'oubliez pas que l'accessibilité
+est bien plus qu'une simple mesure.
+
+00:04:10.347 --> 00:04:12.821
+Il y a plusieurs choses
+vous devez d'abord considérer
+
+00:04:12.841 --> 00:04:14.634
+lorsque vous créez un plugin,
+
+00:04:14.654 --> 00:04:18.893
+et vous voulez vous s’assurer que vous rencontrez
+toutes les exigences d'accessibilité.
+
+00:04:19.195 --> 00:04:20.807
+La première chose à faire est de comprendre
+
+00:04:20.827 --> 00:04:26.672
+cette accessibilité n'est pas seulement limitée
+pour le contraste des couleurs ou les lecteurs d'écran.
+
+00:04:26.692 --> 00:04:30.118
+Vous devez également vous concentrer
+sur l'internationalisation,
+
+00:04:30.413 --> 00:04:35.625
+car l'accessibilité ne se limite pas à cela
+à propos du codage, par exemple.
+
+00:04:35.645 --> 00:04:40.117
+Lorsque vous créez votre plugin
+disponible dans d'autres langues,
+
+00:04:40.137 --> 00:04:43.372
+c'est aussi un moyen de le faire
+accessible à tous.
+
+00:04:44.420 --> 00:04:47.498
+Nous savons que l'anglais
+est largement utilisé dans le domaine de la technologie,
+
+00:04:47.518 --> 00:04:51.820
+mais dans mon cas, par exemple,
+en tant que personne dont l'anglais n'est pas la langue maternelle,
+
+00:04:52.161 --> 00:04:56.228
+Il y avait initialement du contenu
+que je n'ai pas compris.
+
+00:04:57.088 --> 00:05:00.669
+C'est ce qui était difficile.
+au début, à interpréter.
+
+00:05:02.056 --> 00:05:04.951
+Quand on parle de
+internationalisation,
+
+00:05:04.971 --> 00:05:07.851
+Il ne s'agit pas seulement de
+préparer le code
+
+00:05:07.871 --> 00:05:10.951
+ou l'interface
+être prêt pour la traduction.
+
+00:05:12.204 --> 00:05:14.022
+Il s'agit aussi de comprendre
+
+00:05:14.042 --> 00:05:17.762
+qu'il y en a beaucoup
+différents systèmes d'écriture.
+
+00:05:17.782 --> 00:05:20.616
+Par exemple, la disposition droite-gauche,
+
+00:05:20.636 --> 00:05:25.519
+et nous avons également une variante différente
+en format numérique et en devises.
+
+00:05:25.762 --> 00:05:28.442
+Si nous créons un plugin
+codé en dur en anglais,
+
+00:05:28.462 --> 00:05:30.143
+Nous sommes en train de construire une barrière.
+
+00:05:30.398 --> 00:05:34.460
+Pour cela, WordPress a
+une documentation étendue
+
+00:05:34.480 --> 00:05:37.363
+et montrez-nous la bonne façon de procéder.
+
+00:05:37.625 --> 00:05:41.352
+En utilisant, par exemple,
+les fonctions d'internationalisation
+
+00:05:41.372 --> 00:05:43.561
+et en respectant toutes les normes,
+
+00:05:43.581 --> 00:05:46.360
+nous pouvons permettre à notre
+plugin à rendre accessible.
+
+00:05:47.098 --> 00:05:51.019
+Vous pourriez probablement demander, par exemple,
+Par exemple, genre, hmm,
+
+00:05:51.039 --> 00:05:53.863
+Que se passe-t-il si je ne connais que l'anglais ?
+
+00:05:53.883 --> 00:05:57.481
+Ou comment puis-je apporter mon plugin
+vers d'autres langues ?
+
+00:05:59.148 --> 00:06:03.302
+Nous avons la réponse à cela,
+parce que WordPress est une communauté incroyable,
+
+00:06:03.322 --> 00:06:06.939
+et nous avons une communauté
+qui collabore dans tous les domaines.
+
+00:06:07.374 --> 00:06:11.256
+L'une d'entre elles est la communauté
+des traducteurs bénévoles.
+
+00:06:11.276 --> 00:06:14.583
+Ils peuvent nous aider
+pour rendre le plugin accessible.
+
+00:06:14.603 --> 00:06:20.070
+En interrogeant simplement la communauté
+pour obtenir de l'aide concernant la traduction du plugin,
+
+00:06:20.402 --> 00:06:23.690
+nous pouvons trouver de nombreux personnes intéressées
+en y contribuant.
+
+00:06:24.321 --> 00:06:29.375
+Le processus se déroulera sur
+la disponibilité de ces bénévoles.
+
+00:06:29.395 --> 00:06:32.885
+Une bonne façon de faire votre
+plugin visible et traduit
+
+00:06:32.905 --> 00:06:35.431
+c'est en participant aux WordCamps,
+
+00:06:35.451 --> 00:06:37.815
+où il existe souvent des groupes de travail,
+
+00:06:37.835 --> 00:06:41.015
+et généralement un
+est dédié à la traduction.
+
+00:06:41.035 --> 00:06:44.754
+Vous pouvez demander directement
+pour la collaboration.
+
+00:06:44.774 --> 00:06:46.707
+En conclusion, nous pouvons dire que
+
+00:06:47.121 --> 00:06:50.722
+internationalisation
+est la première étape vers la réalisation
+
+00:06:50.742 --> 00:06:52.717
+Notre plugin est accessible.
+
+00:06:52.737 --> 00:06:55.771
+Il y a quelque chose que nous devons prendre en considération
+lorsqu'on commence à écrire du code,
+
+00:06:55.791 --> 00:06:58.533
+ce qui est compréhensible
+le niveau de conformité,
+
+00:06:58.553 --> 00:07:00.847
+les A, AA et AAA,
+
+00:07:00.867 --> 00:07:03.895
+qui sont les normes
+en matière d'accessibilité.
+
+00:07:04.432 --> 00:07:06.909
+Nous pouvons le comprendre rapidement
+comme suit.
+
+00:07:06.929 --> 00:07:09.948
+Par exemple,
+Le niveau A est le plus élémentaire.
+
+00:07:09.968 --> 00:07:13.982
+et le plus détendu de
+le niveau d'accessibilité web,
+
+00:07:14.002 --> 00:07:18.736
+parce que c'est un bon point de départ,
+mais souvent cela ne suffit pas.
+
+00:07:19.346 --> 00:07:21.840
+Le second est le niveau AA
+
+00:07:22.056 --> 00:07:24.821
+qui est conçu pour être
+la norme minimale
+
+00:07:24.841 --> 00:07:27.462
+parce qu'il comprend
+tous les critères de niveau A
+
+00:07:27.482 --> 00:07:29.833
+plus les exigences supplémentaires.
+
+00:07:30.115 --> 00:07:32.434
+La finale correspond au niveau AAA.
+
+00:07:32.454 --> 00:07:35.673
+Il s'agit du plus haut degré
+Accessibilité web.
+
+00:07:35.693 --> 00:07:37.631
+Cela ne peut pas toujours être réalisé.
+
+00:07:37.651 --> 00:07:40.202
+parce que cela dépend du type
+du contenu,
+
+00:07:40.222 --> 00:07:43.628
+mais c'est le plus proche
+à la compatibilité totale.
+
+00:07:44.813 --> 00:07:48.035
+Ces niveaux sont appliqués
+grâce à des recherches,
+
+00:07:48.055 --> 00:07:52.988
+des études et des tests pour garantir
+qu'elles sont conformes aux normes.
+
+00:07:53.008 --> 00:07:54.125
+Par exemple,
+
+00:07:54.145 --> 00:07:55.894
+dans notre récent projet, Amidjob,
+
+00:07:55.914 --> 00:08:00.048
+nous étions en train de créer plusieurs outils web
+dans le domaine médical.
+
+00:08:00.068 --> 00:08:03.271
+Nous devons respecter
+réglementation des collectivités locales
+
+00:08:03.291 --> 00:08:05.685
+pour garantir l'accessibilité
+pour tous.
+
+00:08:06.367 --> 00:08:10.728
+Cela peut également se produire avec les sites web
+ou des logiciels dans le secteur bancaire,
+
+00:08:10.748 --> 00:08:12.074
+dans le domaine de la santé,
+
+00:08:12.094 --> 00:08:17.515
+également dans les secteurs gouvernementaux,
+où l'accessibilité doit être présente.
+
+00:08:17.535 --> 00:08:18.843
+J'ai un exemple ici.
+
+00:08:18.863 --> 00:08:21.986
+Une des façons
+nous pouvons résoudre les problèmes d'accessibilité
+
+00:08:22.202 --> 00:08:27.662
+pour les personnes ayant une déficience visuelle
+Cela se fait en ajoutant du code HTML supplémentaire.
+
+00:08:27.682 --> 00:08:30.439
+Cet attribut
+Nous pouvons l'ajouter à notre code.
+
+00:08:30.459 --> 00:08:35.832
+Dans cet exemple, nous pouvons voir une forme simple
+avec une entrée ou une étiquette pour chaque entrée.
+
+00:08:36.516 --> 00:08:39.952
+Souvent, lorsque nous écrivons du HTML,
+
+00:08:39.972 --> 00:08:42.843
+nous ignorons le HTML sémantique
+
+00:08:42.863 --> 00:08:46.076
+et aussi les attributs
+ou les propriétés.
+
+00:08:46.096 --> 00:08:48.693
+J'ai vu de nombreuses formes
+qui comprennent une étiquette,
+
+00:08:48.713 --> 00:08:52.795
+mais l'entrée elle-même
+n'a pas d'identifiant attribué.
+
+00:08:54.144 --> 00:08:57.849
+dans ce cas,
+L'étiquette n'a qu'un impact visuel.
+
+00:08:57.869 --> 00:09:00.032
+mais n'est pas accessible.
+
+00:09:00.052 --> 00:09:01.323
+Par exemple,
+
+00:09:01.343 --> 00:09:04.838
+personnes atteintes de déficience visuelle
+utiliser un lecteur d'écran,
+
+00:09:04.858 --> 00:09:07.854
+qui lit tout à haute voix
+pendant leur navigation.
+
+00:09:08.277 --> 00:09:12.562
+Ils interagissent avec le site
+en utilisant une navigation au clavier spéciale.
+
+00:09:12.835 --> 00:09:17.320
+Nous pouvons également simuler cela.
+dans notre ordinateur et notre navigateur
+
+00:09:17.340 --> 00:09:20.351
+en appuyant sur la touche Tab
+dans notre clavier.
+
+00:09:20.953 --> 00:09:22.756
+Lorsque nous appuyons sur la touche Tab,
+
+00:09:22.776 --> 00:09:26.603
+le centre de l'attention commence à se déplacer
+par la structure du site.
+
+00:09:27.474 --> 00:09:32.046
+Si nous n'avons pas cela inclus
+sur l'étiquette appropriée,
+
+00:09:32.066 --> 00:09:37.064
+utilisateurs dépendant du lecteur d'écran
+ne saura pas à quoi sert chaque entrée.
+
+00:09:37.643 --> 00:09:41.586
+Surtout pour l'étiquette
+qui existe pour l'attribut for
+
+00:09:41.606 --> 00:09:44.997
+qui est lié à l'identifiant d'entrée.
+
+00:09:45.217 --> 00:09:47.598
+Parfois, pour des raisons de conception,
+
+00:09:47.618 --> 00:09:53.454
+Le développeur omet l'étiquette et se fie uniquement à
+sur l'espace réservé à l'intérieur du champ de saisie.
+
+00:09:54.485 --> 00:09:59.324
+Ceci sert à indiquer à quoi ils servent,
+comme le prénom et le nom de famille.
+
+00:09:59.973 --> 00:10:03.824
+Cela peut paraître correct visuellement,
+mais n'est pas accessible.
+
+00:10:03.844 --> 00:10:07.672
+Depuis le lecteur d'écran
+ne traitez pas toujours les espaces réservés
+
+00:10:07.692 --> 00:10:09.702
+en tant qu'étiquette descriptive,
+
+00:10:09.722 --> 00:10:12.992
+si vous choisissez de ne pas afficher
+une étiquette visuelle,
+
+00:10:13.625 --> 00:10:18.063
+vous devez encore ajouter
+Instructions d'accessibilité dans votre code HTML.
+
+00:10:18.083 --> 00:10:21.353
+Par exemple,
+vous pouvez ajouter l'attribut label ARIA
+
+00:10:21.373 --> 00:10:25.329
+dans votre entrée
+pour indiquer à quoi cela sert.
+
+00:10:25.601 --> 00:10:28.131
+Par exemple,
+si nous ajoutons cette étiquette ARIA ici,
+
+00:10:28.151 --> 00:10:30.658
+on peut dire que
+Ceci concerne le nom de famille.
+
+00:10:31.981 --> 00:10:33.970
+Cela indique au lecteur d'écran
+
+00:10:33.990 --> 00:10:37.798
+Qu'est-ce que la représentation ?
+de l'entrée.
+
+00:10:37.818 --> 00:10:41.303
+Lorsque l'utilisateur commence
+tabulation à l'intérieur du champ,
+
+00:10:41.323 --> 00:10:44.042
+le lecteur d'écran annoncera
+ce que c'est.
+
+00:10:44.272 --> 00:10:45.272
+Sans cela,
+
+00:10:45.484 --> 00:10:49.686
+l'utilisateur malvoyant
+Je ne parviens pas à naviguer correctement sur votre site.
+
+00:10:49.706 --> 00:10:52.231
+Lorsqu'on utilise correctement le HTML sémantique,
+
+00:10:52.251 --> 00:10:54.767
+si une étiquette est liée à l'entrée,
+
+00:10:54.787 --> 00:10:58.064
+cliquer sur l'étiquette déplace
+Déplacer le curseur vers le champ de saisie.
+
+00:10:58.304 --> 00:11:03.583
+La connexion visuelle et fonctionnelle
+fait partie de la norme d'accessibilité.
+
+00:11:03.603 --> 00:11:09.252
+Par conséquent, chaque fois que nous écrivons du code HTML,
+nous devons suivre les principes sémantiques
+
+00:11:09.272 --> 00:11:12.792
+parce que l'entrée devrait avoir
+l'attribut requis
+
+00:11:12.812 --> 00:11:15.102
+pour garantir l'accessibilité,
+
+00:11:15.122 --> 00:11:16.934
+pas seulement l'attrait visuel.
+
+00:11:16.954 --> 00:11:20.960
+Nous pouvons également utiliser
+l'outil de développement du navigateur.
+
+00:11:21.304 --> 00:11:25.008
+Nous pouvons tester l'accessibilité
+ici et maintenant, dans nos navigateurs.
+
+00:11:25.028 --> 00:11:28.339
+Nous pouvons utiliser le panneau d'accessibilité des outils de développement.
+pour cela.
+
+00:11:28.563 --> 00:11:32.506
+Si nous voulons l'activer,
+nous pouvons appuyer sur la touche Ctrl+Maj+E.
+
+00:11:32.526 --> 00:11:34.159
+Et après cela,
+
+00:11:34.179 --> 00:11:37.420
+nous pouvons commencer à écrire sur l'accessibilité,
+
+00:11:37.718 --> 00:11:41.133
+et nous pouvons trouver
+afficher l'option d'accessibilité.
+
+00:11:41.738 --> 00:11:45.857
+Lorsqu'il est activé,
+vous verrez un affichage d'accessibilité
+
+00:11:45.877 --> 00:11:50.023
+que le lecteur d'écran entier
+représentera la page.
+
+00:11:50.043 --> 00:11:54.537
+Une fois l'option activée,
+Vous verrez cette petite icône ici.
+
+00:11:54.557 --> 00:11:57.012
+Si vous passez à
+l'arbre d'accessibilité,
+
+00:11:57.032 --> 00:12:02.764
+vous verrez les différents composants
+à l'intérieur du site pour l'accessibilité.
+
+00:12:02.784 --> 00:12:07.004
+Vous pouvez accéder directement à l'onglet approprié.
+aux attributs,
+
+00:12:07.024 --> 00:12:08.242
+et vous pouvez également vérifier
+
+00:12:08.262 --> 00:12:12.435
+s'ils ont l'accessibilité
+dans le code HTML.
+
+00:12:12.455 --> 00:12:15.926
+Vous pouvez voir
+comme la navigation, le lien.
+
+00:12:15.946 --> 00:12:18.265
+Vous pouvez également avoir l'en-tête,
+
+00:12:18.285 --> 00:12:20.548
+le paragraphe,
+et aussi toutes les informations.
+
+00:12:20.568 --> 00:12:26.775
+Voici comment fonctionne le lecteur d'écran
+interprétera l'intégralité du site.
+
+00:12:26.795 --> 00:12:32.385
+Lorsque nous créons ou travaillons pour les autres
+avec des éléments dynamiques tels que JavaScript,
+
+00:12:32.405 --> 00:12:35.375
+nous devons prendre les autres en considération,
+
+00:12:35.395 --> 00:12:38.688
+surtout si nous utilisons
+un lecteur d'écran.
+
+00:12:38.975 --> 00:12:42.188
+Souvent, si nous ne définissons pas
+l'attribut correct,
+
+00:12:42.208 --> 00:12:46.682
+personnes utilisant un lecteur d'écran
+ne pourra pas percevoir l'autre.
+
+00:12:47.911 --> 00:12:52.096
+Pour remédier à cela,
+L'utilisateur doit utiliser l'attribut d'alerte.
+
+00:12:52.569 --> 00:12:57.073
+Cela permet au lecteur d'écran
+détecter et lire l'alerte à l'utilisateur.
+
+00:12:57.549 --> 00:13:01.308
+Un autre élément à prendre en compte est que
+si vous utilisez alert,
+
+00:13:01.328 --> 00:13:04.317
+ils devraient être soit
+ignorable avec un bouton
+
+00:13:04.337 --> 00:13:06.863
+ou rester dans l'écran
+pour une période plus longue.
+
+00:13:07.477 --> 00:13:11.235
+Ceci est important pour les utilisateurs
+avec déficience motrice,
+
+00:13:11.255 --> 00:13:14.209
+vérifier si l'alerte disparaît
+trop rapidement,
+
+00:13:14.229 --> 00:13:17.603
+ils n'auront peut-être pas assez de temps
+passer à l'action.
+
+00:13:18.277 --> 00:13:21.882
+Imaginez un bouton de confirmation
+qui disparaissent
+
+00:13:21.902 --> 00:13:23.297
+avant qu'ils puissent cliquer.
+
+00:13:24.555 --> 00:13:27.648
+L'approche idéale
+il s'agit de donner l'alerte
+
+00:13:27.668 --> 00:13:31.687
+une longue durée
+ou inclure un bouton d'action,
+
+00:13:31.707 --> 00:13:34.763
+Par exemple,
+un bouton fermer, accepter ou refuser.
+
+00:13:34.783 --> 00:13:37.789
+Nous pouvons en voir un exemple ici.
+sous cette forme.
+
+00:13:37.809 --> 00:13:43.406
+Si nous cliquons sur le bouton Soumettre
+et permettez-moi de réduire le temps de réponse ici.
+
+00:13:43.935 --> 00:13:49.333
+Par exemple, si nous avons un formulaire ici
+et nous avons le bouton soumettre avec alerte,
+
+00:13:49.353 --> 00:13:52.374
+vous verrez que
+J'ai réglé la minuterie sur une valeur plus basse.
+
+00:13:52.394 --> 00:13:54.896
+C'est impossible pour moi
+pour lire ce qui se trouve à l'intérieur,
+
+00:13:54.916 --> 00:13:58.983
+ou c'est impossible pour moi
+cliquer sur le bouton.
+
+00:13:59.489 --> 00:14:05.149
+L'idée ici est d'avoir une minuterie plus longue
+ou n'a pas de minuterie du tout.
+
+00:14:05.169 --> 00:14:07.649
+Vous pouvez configurer votre propre alerte ici.
+
+00:14:07.669 --> 00:14:10.607
+et vous pouvez avoir votre bouton
+pour ignorer l'alerte
+
+00:14:10.627 --> 00:14:13.260
+ou agissez conformément à l'alerte.
+
+00:14:13.479 --> 00:14:16.106
+L'idée ici est que
+
+00:14:16.126 --> 00:14:18.912
+lorsque vous travaillez
+avec un contenu dynamique,
+
+00:14:18.932 --> 00:14:22.103
+tu dois réfléchir
+à propos de l'accessibilité.
+
+00:14:22.123 --> 00:14:27.568
+L'idée ici est
+pour obtenir le label ARIA
+
+00:14:27.588 --> 00:14:29.116
+pour les lecteurs d'écran
+
+00:14:29.136 --> 00:14:32.883
+et avoir aussi le temps
+pour que les gens y aillent
+
+00:14:32.903 --> 00:14:36.103
+dans l'alerte
+et commencez à cliquer sur les boutons.
+
+00:14:36.123 --> 00:14:38.985
+Pour les personnes qui ont des difficultés
+distinguer les couleurs,
+
+00:14:39.005 --> 00:14:42.298
+qu'ils soient daltoniens
+ou ils ont des difficultés
+
+00:14:42.318 --> 00:14:44.241
+dans la définition de certaines couleurs
+
+00:14:44.261 --> 00:14:49.216
+ou des difficultés à lire un texte en raison de
+la mauvaise construction avec le fond,
+
+00:14:49.236 --> 00:14:52.773
+l'outil de développement fournit
+un outil très utile
+
+00:14:52.793 --> 00:14:56.073
+cela nous permet de vérifier
+que ce soit le choix de la couleur
+
+00:14:56.093 --> 00:14:59.688
+pour le texte ou l'arrière-plan
+respecter les normes d'accessibilité
+
+00:14:59.708 --> 00:15:01.953
+pour les AA ou AAA.
+
+00:15:02.716 --> 00:15:06.470
+Nous pouvons aller directement ici.
+et utilisez les outils de développement pour cela.
+
+00:15:07.354 --> 00:15:10.878
+Prenons l'exemple,
+et nous pouvons accéder directement à cette rubrique ici.
+
+00:15:10.898 --> 00:15:15.997
+Il s'agit d'un H3 caché,
+et on pourrait peut-être changer la couleur en rouge.
+
+00:15:16.954 --> 00:15:19.961
+Nous pouvons utiliser l'outil de développement.
+
+00:15:19.981 --> 00:15:24.477
+pour tester la qualité de cette couleur
+pour le site.
+
+00:15:24.497 --> 00:15:29.072
+Si l'on s'intéresse à la couleur ici,
+nous avons cette option, la radio contrastée,
+
+00:15:29.763 --> 00:15:35.210
+et nous pouvons constater que nous ne nous rencontrons pas
+la norme AA ou AAA pour l'instant.
+
+00:15:35.654 --> 00:15:36.887
+Si vous regardez ici,
+
+00:15:36.907 --> 00:15:39.913
+vous verrez qu'il y a
+une ligne entre les couleurs.
+
+00:15:39.933 --> 00:15:46.124
+Cela signifie que si nous allons directement
+à n'importe quelle couleur à l'intérieur de ces deux lignes blanches,
+
+00:15:46.144 --> 00:15:51.184
+nous allons avoir la bonne couleur
+pour la norme AA.
+
+00:15:51.603 --> 00:15:55.906
+Nous pouvons aller dans le rouge,
+le rouge spécifique, un rouge plus foncé,
+
+00:15:55.926 --> 00:15:57.227
+et nous pouvons le choisir.
+
+00:15:57.247 --> 00:16:00.503
+Nous pouvons également utiliser l'outil automatique.
+
+00:16:00.994 --> 00:16:04.613
+Nous pouvons utiliser ici
+cette option se trouve dans les outils de développement.
+
+00:16:04.633 --> 00:16:07.361
+Nous pouvons utiliser pour la couleur suggérée
+
+00:16:07.649 --> 00:16:13.248
+pour le faible contraste
+par rapport au fond blanc.
+
+00:16:13.268 --> 00:16:18.078
+Nous vérifions ici,
+Nous respectons les normes AA.
+
+00:16:18.314 --> 00:16:22.134
+Si nous descendons manuellement ici,
+Nous pouvons nous conformer aux exigences de l'AAA.
+
+00:16:23.358 --> 00:16:24.711
+Peu importe la couleur que nous utilisons,
+
+00:16:24.731 --> 00:16:29.005
+nous pouvons utiliser
+le sélecteur de couleurs automatique pour cela.
+
+00:16:30.044 --> 00:16:34.092
+Lorsque vous travaillez avec les couleurs
+
+00:16:34.112 --> 00:16:37.212
+et lorsque vous travaillez avec le contraste,
+
+00:16:37.232 --> 00:16:43.523
+si nous ne restons pas à l'intérieur de la ligne définie,
+Il ne répond pas aux normes AA.
+
+00:16:44.082 --> 00:16:48.744
+Si on peut le déplacer un peu ou le descendre complètement,
+Nous pouvons répondre aux normes AAA.
+
+00:16:49.601 --> 00:16:52.650
+C'est un outil utile
+parce que cela vous donne
+
+00:16:53.166 --> 00:16:57.500
+la représentation visuelle de
+Votre couleur est-elle accessible ?
+
+00:16:58.989 --> 00:17:03.134
+Si vous ajustez
+la couleur légèrement pour correspondre à la norme AAA,
+
+00:17:03.154 --> 00:17:06.692
+vous remarquerez que là
+Il n'y a pratiquement aucune différence.
+
+00:17:06.712 --> 00:17:12.258
+Par exemple, si nous choisissons cette couleur ici,
+Par exemple, ceci est rouge,
+
+00:17:12.278 --> 00:17:14.434
+et nous pouvons descendre encore plus bas ici,
+
+00:17:14.454 --> 00:17:18.334
+Vous ne remarquerez absolument aucun changement visuel.
+
+00:17:19.208 --> 00:17:24.882
+Lorsque vous travaillez
+avec les arrière-plans et les couleurs,
+
+00:17:25.174 --> 00:17:27.205
+Ne soyez pas trop exigeant avec le design.
+
+00:17:27.225 --> 00:17:30.007
+Essayez de vous rencontrer
+toutes les exigences d'accessibilité.
+
+00:17:30.227 --> 00:17:33.494
+Si vous souhaitez vérifier
+le contraste en dehors de l'outil de développement,
+
+00:17:33.514 --> 00:17:37.817
+Il existe également différents outils en ligne gratuits
+que vous pouvez choisir
+
+00:17:37.837 --> 00:17:40.006
+et vous pouvez l'utiliser gratuitement.
+
+00:17:40.026 --> 00:17:41.173
+Par exemple,
+
+00:17:41.653 --> 00:17:47.501
+certaines combinaisons de couleurs
+échouera au test de lecture.
+
+00:17:47.521 --> 00:17:52.393
+Par exemple, si vous faites
+un plugin ou un thème pour WordPress,
+
+00:17:52.413 --> 00:17:57.457
+vous pouvez y aller directement et utiliser la même couleur
+que vous trouverez dans l'interface d'administration.
+
+00:17:58.098 --> 00:18:00.879
+Parce que WordPress a
+la couleur idéale pour le contraste
+
+00:18:00.899 --> 00:18:05.248
+et ne compliquez pas inutilement votre conception.
+
+00:18:06.758 --> 00:18:09.323
+Vous pouvez opter pour un design simple
+
+00:18:09.343 --> 00:18:12.251
+et vous êtes si docile
+avec l'accessibilité.
+
+00:18:12.271 --> 00:18:16.737
+Une autre fonctionnalité utile des outils de développement
+pour les tests d'accessibilité
+
+00:18:16.943 --> 00:18:19.072
+est-ce que cela vous permet de simuler
+
+00:18:19.092 --> 00:18:22.015
+comment un utilisateur ayant une déficience visuelle
+consultez votre site.
+
+00:18:22.035 --> 00:18:28.118
+Par exemple, nous accédons ici à l'outil de développement.
+et nous pouvons l'activer avec Ctrl+Maj
+
+00:18:28.402 --> 00:18:32.985
+et nous pouvons-nous-
+Juste ici, donc afficher le rendu.
+
+00:18:33.693 --> 00:18:38.214
+Une fois que nous aurons cette option ici,
+nous verrons ici dans DevTool,
+
+00:18:38.234 --> 00:18:42.346
+Je vais donc modifier mon zoom ici.
+
+00:18:42.366 --> 00:18:44.601
+D'accord. Nous pouvons accéder à l'outil de rendu.
+
+00:18:44.621 --> 00:18:49.885
+et allez directement à la fin
+et la déficience visuelle simulée.
+
+00:18:50.629 --> 00:18:54.798
+Dans cet onglet, nous pouvons émuler
+vision floue,
+
+00:18:54.818 --> 00:18:56.780
+Réduire la protection contre le contraste.
+
+00:18:57.963 --> 00:18:59.939
+Par exemple, une personne présentant un problème de contraste
+
+00:18:59.959 --> 00:19:02.692
+pourrait avoir du mal à lire le texte
+sur fond sombre.
+
+00:19:02.712 --> 00:19:06.647
+Nous pouvons tester chaque cas ici
+Par exemple
+
+00:19:06.667 --> 00:19:08.410
+et nous pouvons opter pour une vision floue
+
+00:19:08.430 --> 00:19:11.331
+et vous voyez à quoi ressemble le site
+tout de suite.
+
+00:19:11.351 --> 00:19:15.232
+Voici comment je perçois chaque site
+si j'enlève mes lunettes.
+
+00:19:15.667 --> 00:19:18.307
+Par exemple,
+si je vais dans la réduction du contraste,
+
+00:19:18.327 --> 00:19:21.719
+Je veillerai à ce que tous les gens
+avec ce problème
+
+00:19:21.739 --> 00:19:23.292
+consultera le site.
+
+00:19:23.312 --> 00:19:26.808
+Je peux aussi choisir
+pour d'autres problèmes différents
+
+00:19:26.828 --> 00:19:27.974
+pour déficience visuelle.
+
+00:19:27.994 --> 00:19:29.455
+Par exemple, il y a quelque chose
+
+00:19:29.475 --> 00:19:31.622
+que je ne le savais pas
+
+00:19:31.642 --> 00:19:35.887
+il y a des gens
+qui ne perçoit pas aussi bien les couleurs.
+
+00:19:36.108 --> 00:19:40.396
+Par exemple, si nous avons pour--
+Je vais simplement modifier l'émulation ici,
+
+00:19:40.416 --> 00:19:42.980
+et vous verrez
+C'est de ça que je parle.
+
+00:19:43.207 --> 00:19:44.990
+Si nous supprimons l'émulation,
+
+00:19:45.010 --> 00:19:48.094
+vous verrez que
+Nous avons un titre rouge ici.
+
+00:19:48.403 --> 00:19:51.283
+Il y a des gens
+qui ne perçoit pas la couleur rouge.
+
+00:19:51.994 --> 00:19:55.637
+Si nous choisissons cette émulation,
+Nous verrons ce qui se passera
+
+00:19:57.080 --> 00:19:58.947
+si nous ne percevons pas la couleur.
+
+00:19:58.967 --> 00:20:04.549
+L'une des plus grosses erreurs que je faisais
+lorsque je créais des interfaces pour les utilisateurs
+
+00:20:04.569 --> 00:20:09.692
+ou les administrateurs créaient
+le bouton OK en vert
+
+00:20:09.712 --> 00:20:12.987
+et l'annulation
+ou le bouton d'erreur en rouge.
+
+00:20:13.545 --> 00:20:16.912
+Il y a des gens
+qui ne perçoit pas aussi bien la couleur,
+
+00:20:16.932 --> 00:20:20.693
+Il vous faut donc trouver un équilibre.
+là où vos couleurs se rencontrent
+
+00:20:20.713 --> 00:20:26.285
+le problème visuel.
+
+00:20:27.484 --> 00:20:30.466
+Si vous y retournez, je le répéterai,
+
+00:20:30.727 --> 00:20:34.302
+WordPress a
+un arrière-plan plus contrasté,
+
+00:20:34.322 --> 00:20:35.784
+ils ont un meilleur score,
+
+00:20:35.804 --> 00:20:40.899
+parce que ce n'est pas du blanc pur
+ou noir pur.
+
+00:20:41.648 --> 00:20:45.983
+Vous pouvez commencer à jouer avec votre couleur
+pour vos nouvelles interfaces,
+
+00:20:46.003 --> 00:20:47.989
+pour vos plugins, pour votre équipe.
+
+00:20:49.508 --> 00:20:53.037
+Si vous faites cela, si vous allez
+au noir pur ou au blanc pur,
+
+00:20:53.057 --> 00:20:56.148
+vous ferez la lecture
+Pas confortable du tout.
+
+00:20:56.168 --> 00:20:57.361
+Ce qui vous aidera également
+
+00:20:57.381 --> 00:21:01.466
+pour améliorer l'accessibilité
+lors de la création de votre plugin, votre équipe
+
+00:21:01.486 --> 00:21:04.153
+Écrire du HTML sémantique.
+
+00:21:04.776 --> 00:21:07.637
+Cela signifie que vous devez utiliser
+le texte approprié pour l'en-tête,
+
+00:21:07.657 --> 00:21:09.344
+articles, bouton,
+
+00:21:09.364 --> 00:21:12.051
+texte d'ancrage,
+et tous les autres éléments.
+
+00:21:12.347 --> 00:21:13.371
+Quelle est la différence
+
+00:21:13.391 --> 00:21:16.158
+en utilisant le HTML sémantique
+
+00:21:16.178 --> 00:21:19.454
+et commencez à vous concentrer
+sur l'élément profond d'imbrication ?
+
+00:21:19.853 --> 00:21:24.784
+Visuellement, vous avez ici un exemple
+de la même structure que le site.
+
+00:21:26.404 --> 00:21:32.068
+En gros, visuellement, c'est la même chose pour nous.
+mais si nous utilisons un lecteur d'écran,
+
+00:21:32.088 --> 00:21:33.855
+Ça va être le chaos
+
+00:21:33.875 --> 00:21:37.608
+car l'utilisateur ne sera pas guidé
+correctement au contenu
+
+00:21:37.628 --> 00:21:40.674
+et aura des difficultés
+Je comprends cela.
+
+00:21:40.953 --> 00:21:45.314
+La meilleure solution consiste à cesser de compter sur
+sur les multiples DIV imbriquées.
+
+00:21:45.588 --> 00:21:49.240
+Nous devons commencer à utiliser
+l'élément sémantique correctement.
+
+00:21:49.260 --> 00:21:56.178
+Par exemple, si vous utilisez un en-tête,
+Utilisez la balise d'en-tête elle-même pour le HTML.
+
+00:21:56.198 --> 00:21:59.392
+Également pour cette section,
+les articles et le pied de page.
+
+00:21:59.412 --> 00:22:01.526
+C'est la seule façon
+
+00:22:02.226 --> 00:22:04.093
+votre plugin, votre équipe,
+
+00:22:04.113 --> 00:22:07.843
+sera parfait pour l'accessibilité
+et les lecteurs d'écran.
+
+00:22:07.863 --> 00:22:11.983
+Chaque image doit inclure
+au moins l'attribut alternatif
+
+00:22:12.003 --> 00:22:15.357
+car cela permettra
+le texte alternatif.
+
+00:22:16.033 --> 00:22:18.889
+Le texte alternatif
+décrira l'image,
+
+00:22:18.909 --> 00:22:23.209
+donc quand quelqu'un lit votre article
+ou votre site avec un lecteur d'écran,
+
+00:22:23.229 --> 00:22:25.377
+ils sauront qu'il y a une image
+
+00:22:25.397 --> 00:22:27.917
+et comprendre ce qu'il représente.
+
+00:22:28.183 --> 00:22:33.431
+Utilisez cette alternative uniquement pour les images.
+qui constituent la véritable valeur ou le véritable contenu.
+
+00:22:33.818 --> 00:22:37.045
+Évitez de le faire dans les logos, les icônes,
+
+00:22:37.065 --> 00:22:39.696
+ou des images décoratives
+
+00:22:39.716 --> 00:22:43.400
+car cela ne contribuera pas
+dans une information significative
+
+00:22:43.420 --> 00:22:44.590
+pour le contenu.
+
+00:22:45.451 --> 00:22:50.442
+Cette approche va
+avec les principes du HTML sémantique,
+
+00:22:50.462 --> 00:22:54.114
+et en utilisant le bon élément
+et l'attribut vous donnera
+
+00:22:54.758 --> 00:22:56.758
+la structure de contenu appropriée
+
+00:22:56.778 --> 00:23:01.693
+et le but de votre site
+ou même pour votre équipe ou pour votre plugin.
+
+00:23:02.206 --> 00:23:04.884
+Il peut aussi arriver que
+certaines personnes atteintes de dyslexie
+
+00:23:04.904 --> 00:23:07.512
+J'ai du mal à lire les textes longs.
+
+00:23:07.532 --> 00:23:09.467
+La meilleure chose que nous puissions faire
+
+00:23:09.487 --> 00:23:12.431
+leur donne l'option
+utiliser une police différente.
+
+00:23:12.451 --> 00:23:15.343
+C'est possible
+en téléchargeant une police gratuite.
+
+00:23:15.363 --> 00:23:19.334
+Par exemple, les polices Google
+J'en propose une appelée Lexend.
+
+00:23:19.700 --> 00:23:21.961
+Si nous fournissons
+cette fonctionnalité d'accessibilité
+
+00:23:21.981 --> 00:23:23.707
+pour permettre à l'utilisateur de changer la police,
+
+00:23:24.002 --> 00:23:27.045
+même la différence
+Cela peut ne pas paraître très perceptible,
+
+00:23:27.065 --> 00:23:28.288
+mais pour les gens
+
+00:23:28.308 --> 00:23:31.600
+qui ont des difficultés de lecture
+vous en serez reconnaissant.
+
+00:23:32.047 --> 00:23:36.583
+Cette police est spécialement conçue
+pour réduire la fatigue visuelle
+
+00:23:36.603 --> 00:23:41.683
+et aider les personnes dyslexiques
+reconnaître plus facilement les mots.
+
+00:23:41.703 --> 00:23:44.892
+Les personnes atteintes de troubles moteurs
+peut avoir des difficultés à utiliser une souris,
+
+00:23:44.912 --> 00:23:48.412
+un écran tactile,
+ou même garder les mains immobiles
+
+00:23:48.432 --> 00:23:50.091
+lorsqu'ils naviguent.
+
+00:23:50.468 --> 00:23:52.198
+Pour réduire les erreurs, assurez-vous de
+
+00:23:52.218 --> 00:23:55.859
+que votre conception fournit
+l'espacement adéquat
+
+00:23:55.879 --> 00:23:59.337
+entre cibles
+et tous les éléments interactifs.
+
+00:23:59.357 --> 00:24:01.786
+Par exemple, si vous avez cinq boutons
+
+00:24:01.806 --> 00:24:04.516
+et ce bouton n'a pas
+un espace entre,
+
+00:24:04.536 --> 00:24:06.413
+Ça va être difficile pour les gens
+
+00:24:06.433 --> 00:24:09.022
+qui présentent un handicap moteur
+pour commencer la navigation.
+
+00:24:09.042 --> 00:24:12.148
+Par exemple, si nous voyons
+l'exemple ici,
+
+00:24:12.168 --> 00:24:17.664
+nous pouvons constater que nous imitons
+Un site mobile avec un bouton ici.
+
+00:24:18.045 --> 00:24:21.283
+Ce petit cercle ici
+représenter le doigt.
+
+00:24:21.303 --> 00:24:24.552
+Par exemple, si je vais à A peut-être
+
+00:24:24.572 --> 00:24:28.745
+Je vais commencer à taper sur le B
+ou même d'autres boutons.
+
+00:24:29.175 --> 00:24:32.327
+Lorsque vous ajoutez cet espacement entre eux,
+
+00:24:32.347 --> 00:24:35.261
+et vous vous rencontrez
+l'exigence d'accessibilité,
+
+00:24:35.281 --> 00:24:38.665
+vous aurez une meilleure interface
+pour les utilisateurs.
+
+00:24:39.028 --> 00:24:41.746
+Cela va réduire les erreurs,
+
+00:24:41.766 --> 00:24:45.043
+et ça va être
+un design plus convivial
+
+00:24:45.063 --> 00:24:47.119
+pour toutes les personnes qui visitent votre site.
+
+00:24:47.139 --> 00:24:49.315
+De nombreux utilisateurs naviguent sur des sites web
+
+00:24:49.335 --> 00:24:51.163
+en utilisant uniquement le clavier
+
+00:24:51.183 --> 00:24:54.526
+et pas seulement en utilisant une souris
+ou un écran tactile.
+
+00:24:54.546 --> 00:24:56.669
+Cela inclut les personnes
+avec handicap moteur,
+
+00:24:56.689 --> 00:24:57.660
+déficience visuelle
+
+00:24:57.680 --> 00:25:00.461
+ou les personnes qui utilisent
+technologies d'assistance
+
+00:25:00.481 --> 00:25:01.703
+comme un lecteur d'écran.
+
+00:25:02.405 --> 00:25:04.578
+Pour eux, chaque élément d'interaction
+
+00:25:04.598 --> 00:25:08.990
+doit être joignable
+et utilisable au clavier.
+
+00:25:09.555 --> 00:25:12.588
+Lors de l'audit de votre plugin WordPress,
+vous devriez vérifier
+
+00:25:12.608 --> 00:25:13.885
+que tous les boutons,
+
+00:25:13.905 --> 00:25:19.803
+tous les liens et toutes les contributions éclairées
+peut être obtenu en utilisant la touche Tab.
+
+00:25:20.695 --> 00:25:25.847
+Il peut également être activé avec la touche Entrée.
+ou échapper dans l'ordre de navigation.
+
+00:25:25.867 --> 00:25:27.714
+Cela doit rester logique.
+
+00:25:29.201 --> 00:25:34.655
+Si l'attention se déplace de façon inattendue
+ou ignorer un élément quelconque peut désorienter l'utilisateur.
+
+00:25:35.463 --> 00:25:37.899
+Un problème d'accessibilité courant
+dans les plugins
+
+00:25:37.919 --> 00:25:40.287
+L'indicateur de mise au point est manquant.
+
+00:25:40.307 --> 00:25:44.284
+Un développeur a supprimé cet indicateur.
+pour des raisons esthétiques.
+
+00:25:46.244 --> 00:25:51.312
+Cela empêche également l'utilisateur de voir
+Où se situe réellement le point focal ?
+
+00:25:51.332 --> 00:25:55.166
+Conservez ou personnalisez toujours
+votre style de mise au point visible
+
+00:25:55.186 --> 00:25:58.594
+rester là
+sur votre site.
+
+00:25:58.984 --> 00:26:01.629
+Outre la mise au point visible,
+
+00:26:02.185 --> 00:26:03.382
+les plugins
+
+00:26:03.402 --> 00:26:07.117
+qui utilisent des modales
+ou utilisent des fenêtres contextuelles
+
+00:26:07.410 --> 00:26:09.377
+peut utiliser la mise au point par glissement.
+
+00:26:09.397 --> 00:26:13.018
+Parce que la mise au point sur la chute
+restera à l'intérieur de la fenêtre modale
+
+00:26:13.038 --> 00:26:13.836
+pendant qu'il est ouvert.
+
+00:26:13.856 --> 00:26:18.108
+Par exemple, si j'ouvre cette fenêtre modale
+puis commencez à utiliser la touche tabulation,
+
+00:26:18.128 --> 00:26:20.670
+Je resterai à l'intérieur de la fenêtre modale.
+
+00:26:22.471 --> 00:26:26.218
+Cela peut être réalisé.
+Utilisation de JavaScript pour le comportement.
+
+00:26:26.688 --> 00:26:30.335
+Vous devez également vous s’assurer que
+lorsque le modèle s'ouvre,
+
+00:26:30.544 --> 00:26:35.496
+La mise au point reste automatiquement
+dans le premier élément interactif.
+
+00:26:35.698 --> 00:26:37.757
+Même lorsqu'il est fermé,
+
+00:26:37.777 --> 00:26:40.397
+L'attention devrait surtout revenir
+jusqu'au bouton
+
+00:26:40.417 --> 00:26:42.147
+ou le lien qui l'a ouvert.
+
+00:26:42.167 --> 00:26:45.378
+Si je vais là-bas et que je ferme la fenêtre modale,
+
+00:26:45.398 --> 00:26:49.347
+Je serai ici directement.
+dans le bouton pour ouvrir la fenêtre modale.
+
+00:26:50.953 --> 00:26:55.286
+Cela fournit une solution complète
+et un flux de navigation prévisible.
+
+00:26:55.892 --> 00:27:01.062
+Enfin, lorsque vous courez
+ou vous mettez à jour votre site
+
+00:27:01.082 --> 00:27:03.974
+ou votre plugin avec Lighthouse
+ou l'outil de développement,
+
+00:27:03.994 --> 00:27:08.026
+vous pouvez aller vérifier
+pour les avertissements liés à la mise au point.
+
+00:27:08.046 --> 00:27:11.153
+Ces outils peuvent détecter
+le style de mise au point manquant
+
+00:27:11.173 --> 00:27:13.663
+ou un ordre de tabulation incorrect.
+
+00:27:14.887 --> 00:27:17.544
+Il faut toujours le tester manuellement.
+
+00:27:17.564 --> 00:27:20.724
+Ne vous fiez pas toujours au test automatique.
+
+00:27:21.525 --> 00:27:26.041
+Parce que rien ne remplacera
+appuyer sur la touche Tab dans votre interface.
+
+00:27:26.671 --> 00:27:27.974
+Si vous mettez cela en œuvre
+
+00:27:28.673 --> 00:27:33.316
+avec la navigation au clavier
+et la gestion de la concentration,
+
+00:27:33.336 --> 00:27:36.682
+vous créez votre plugin
+Très utile pour tout le monde.
+
+00:27:36.702 --> 00:27:39.630
+Pas seulement pour les utilisateurs
+qui nécessitent l'utilisation d'une souris.
+
+00:27:41.444 --> 00:27:45.026
+L'accessibilité n'est pas seulement visuelle.
+
+00:27:45.046 --> 00:27:49.381
+Il s'agit également de garantir un contrôle égal
+et interaction.
+
+00:27:49.605 --> 00:27:52.526
+Un autre simple
+mais une fonctionnalité d'accessibilité puissante
+
+00:27:52.546 --> 00:27:56.487
+que nous pouvons inclure dans notre plugin
+est un sélecteur de couleurs.
+
+00:27:56.507 --> 00:27:59.256
+Cela permet à l'utilisateur de choisir
+entre la lumière, l'obscurité,
+
+00:27:59.276 --> 00:28:01.171
+ou thème à contraste élevé
+
+00:28:01.191 --> 00:28:04.563
+selon leur vision
+préférence ou besoins.
+
+00:28:04.583 --> 00:28:09.529
+Certains utilisateurs perçoivent un flux lumineux
+sur fond clair.
+
+00:28:09.549 --> 00:28:14.019
+Tandis que d'autres nécessitent un contraste marqué
+lire clairement le texte.
+
+00:28:14.352 --> 00:28:18.955
+En ajoutant ce petit outil,
+Cela permettra de sauvegarder le choix de l'utilisateur.
+
+00:28:19.695 --> 00:28:21.999
+Nous donnons le contrôle sur
+
+00:28:22.019 --> 00:28:25.485
+comment ils vivent
+nos interfaces.
+
+00:28:25.935 --> 00:28:29.014
+Ceci est un extrait d'un morceau de code,
+
+00:28:29.034 --> 00:28:31.861
+mais cela démontre
+La véritable empathie dans le design.
+
+00:28:31.881 --> 00:28:35.086
+Parce que nous nous adaptons
+nos outils à l'utilisateur
+
+00:28:35.106 --> 00:28:37.176
+et non l'inverse.
+
+00:28:37.465 --> 00:28:39.595
+Parmi les différents outils
+que nous pouvons utiliser
+
+00:28:39.615 --> 00:28:42.312
+améliorer
+l'intégration de l'accessibilité.
+
+00:28:42.332 --> 00:28:46.308
+En tant que développeur,
+Nous pouvons utiliser le plugin ESLint.
+
+00:28:46.581 --> 00:28:48.124
+Ce plugin vous sera utile.
+
+00:28:48.144 --> 00:28:51.009
+en suggérant la voie
+pour améliorer votre code.
+
+00:28:51.559 --> 00:28:56.908
+Il existe de nombreuses versions d'ESLint
+pour HTML, PHP et JavaScript.
+
+00:28:58.288 --> 00:29:00.895
+Ils ne vous aident pas seulement
+avec l'accessibilité.
+
+00:29:00.915 --> 00:29:04.089
+Cela vous aidera également.
+pour devenir un meilleur programmeur
+
+00:29:04.109 --> 00:29:06.307
+en vous encourageant à utiliser
+la sémantique,
+
+00:29:06.327 --> 00:29:09.096
+un code bien écrit et lisible.
+
+00:29:09.373 --> 00:29:14.302
+En agissant ainsi, vous vous assurez également que
+votre site et l'ensemble de votre flux de travail
+
+00:29:14.322 --> 00:29:17.334
+vont être
+dans les normes de meilleures pratiques.
+
+00:29:17.354 --> 00:29:20.186
+Un autre outil qui
+vous pouvez utiliser Lighthouse.
+
+00:29:20.206 --> 00:29:25.024
+Lighthouse vous offre des performances
+sur l'ensemble du site.
+
+00:29:25.044 --> 00:29:29.192
+Lighthouse est intégré directement
+dans l'outil web depuis n'importe quel navigateur.
+
+00:29:29.212 --> 00:29:30.635
+Vous pouvez également utiliser
+
+00:29:31.298 --> 00:29:34.656
+les informations sur le phare
+pour obtenir des informations sur la vitesse de la page web.
+
+00:29:35.094 --> 00:29:37.306
+Cela vous donnera des informations
+
+00:29:37.326 --> 00:29:40.622
+et vous donnera
+perspective d'accessibilité.
+
+00:29:41.202 --> 00:29:43.386
+Cela vous aidera
+identifier tous les problèmes
+
+00:29:43.406 --> 00:29:44.642
+votre site en a.
+
+00:29:44.963 --> 00:29:47.127
+Par exemple,
+si vous avez des attributs manquants,
+
+00:29:47.147 --> 00:29:49.703
+images sans texte alternatif,
+
+00:29:49.723 --> 00:29:51.666
+et d'autres problèmes d'accessibilité.
+
+00:29:52.500 --> 00:29:58.508
+Cela vous donnera également un aperçu
+et la documentation expliquant comment les réparer.
+
+00:29:59.223 --> 00:30:01.342
+Cela vous rend très utile
+
+00:30:01.362 --> 00:30:04.290
+pour vérifier l'accessibilité
+est votre site ou votre outil,
+
+00:30:04.310 --> 00:30:05.936
+ou quoi que vous fassiez,
+
+00:30:05.956 --> 00:30:09.989
+et vous pouvez obtenir le rapport
+Également disponible sur mobile et ordinateur.
+
+00:30:10.009 --> 00:30:13.056
+N'oubliez pas que dans DevTool,
+vous pouvez également accéder
+
+00:30:13.076 --> 00:30:17.033
+la fonction d'accessibilité
+du panneau d'inspection des éléments.
+
+00:30:17.053 --> 00:30:19.073
+Vous pouvez l'activer facilement
+
+00:30:19.093 --> 00:30:23.672
+avec l'option Ctrl + Maj + P
+et l'écriture témoigne de l'accessibilité.
+
+00:30:23.952 --> 00:30:27.653
+Une fois activé, un bouton apparaît
+vous permettant de passer à l'étape suivante
+
+00:30:27.673 --> 00:30:29.967
+du développement du code en tant que développeur
+
+00:30:29.987 --> 00:30:31.977
+et directement voir
+
+00:30:31.997 --> 00:30:35.126
+Comment est l'accessibilité
+Le navigateur de focus a été interprété.
+
+00:30:35.551 --> 00:30:36.421
+Si vous changez ici,
+
+00:30:36.441 --> 00:30:38.635
+vous verrez la différence
+entre les codes
+
+00:30:38.655 --> 00:30:41.765
+et comment le lecteur d'écran
+consultez votre site.
+
+00:30:43.322 --> 00:30:45.470
+Cela vous permettra de voir la différence
+
+00:30:45.490 --> 00:30:49.797
+vous pouvez même modifier les propriétés
+pour tester et aussi pour améliorer.
+
+00:30:50.175 --> 00:30:53.064
+De plus, dans DevTools
+sous l'onglet rendu,
+
+00:30:53.084 --> 00:30:56.393
+vous pouvez simuler
+différents scénarios d'accessibilité.
+
+00:30:56.413 --> 00:30:59.163
+Par exemple,
+vous pouvez simuler une déficience visuelle
+
+00:30:59.183 --> 00:31:01.440
+comme le flou ou la luminosité des couleurs.
+
+00:31:01.936 --> 00:31:04.448
+Vous pouvez tester les différents
+modes d'accessibilité
+
+00:31:04.468 --> 00:31:08.134
+comme la réduction du mouvement
+ou en mode contraste élevé.
+
+00:31:08.805 --> 00:31:10.388
+Cela vous aidera à comprendre
+
+00:31:10.408 --> 00:31:13.436
+Que peut-on améliorer ?
+pour une meilleure accessibilité.
+
+00:31:13.456 --> 00:31:15.364
+Lorsque nous aurons terminé le développement d'un plugin,
+
+00:31:15.384 --> 00:31:17.735
+Nous testons généralement les fonctionnalités.
+par exemple
+
+00:31:17.755 --> 00:31:20.846
+si les boutons fonctionnent,
+si le formulaire est en cours de soumission,
+
+00:31:21.056 --> 00:31:25.043
+ou si les paramètres sont en cours d'enregistrement
+correctement dans la base de données.
+
+00:31:25.063 --> 00:31:28.836
+Mais la plupart des développeurs
+oublier une étape essentielle
+
+00:31:28.856 --> 00:31:31.624
+c'est tester toute l'accessibilité
+
+00:31:31.884 --> 00:31:33.492
+avant la publication du plugin.
+
+00:31:34.145 --> 00:31:37.657
+Tests d'accessibilité
+n'exige pas toujours
+
+00:31:37.677 --> 00:31:43.828
+que vous avez des connaissances avancées
+ou vous utilisez des outils spécialisés.
+
+00:31:43.848 --> 00:31:46.642
+Vous pouvez suivre une méthode simple
+Procédé à trois couches.
+
+00:31:46.662 --> 00:31:49.488
+Vous pouvez toujours vérifier
+votre test manuel de mots-clés
+
+00:31:49.963 --> 00:31:53.409
+utiliser le lecteur d'écran
+et l'analyse automatique.
+
+00:31:53.844 --> 00:31:56.751
+Par exemple, pour les tests de mots clés,
+
+00:31:56.771 --> 00:32:01.349
+avant d'utiliser une interface quelconque
+dans votre plugin,
+
+00:32:01.369 --> 00:32:05.896
+Essayez de naviguer dans l'interface de votre plugin
+en utilisant uniquement le clavier.
+
+00:32:06.254 --> 00:32:09.298
+Si vous pouvez passer par
+chaque élément interactif,
+
+00:32:09.318 --> 00:32:12.151
+si vous pouvez l'activer
+avec l'entrée ou la sortie,
+
+00:32:12.171 --> 00:32:15.095
+et vous ne perdez jamais la mise au point visible,
+
+00:32:15.115 --> 00:32:17.155
+votre plugin est alors prêt
+
+00:32:17.175 --> 00:32:21.311
+pour commencer à couvrir une grande partie
+de l'accent mis sur l'accessibilité.
+
+00:32:22.885 --> 00:32:25.104
+Cela signifie que
+Vous êtes presque prêt à partir.
+
+00:32:25.698 --> 00:32:27.714
+Vous pouvez ensuite vérifier
+
+00:32:27.734 --> 00:32:30.595
+si ça fonctionne
+avec la vérification du lecteur d'écran.
+
+00:32:30.802 --> 00:32:33.923
+Il existe de nombreux logiciels gratuits
+que vous pouvez tester.
+
+00:32:33.943 --> 00:32:39.069
+Sous Windows, vous pouvez utiliser NDVA,
+et macOS, également sous Linux,
+
+00:32:39.089 --> 00:32:41.602
+vous pouvez utiliser une variante
+de ce logiciel.
+
+00:32:41.842 --> 00:32:44.632
+Ce logiciel est essentiellement
+est un lecteur d'écran.
+
+00:32:45.466 --> 00:32:47.699
+Vous n'avez pas besoin d'être un expert pour l'utiliser.
+
+00:32:47.719 --> 00:32:51.112
+Parce que si vous commencez à l'utiliser
+et vous écoutez
+
+00:32:51.132 --> 00:32:55.830
+que si le lecteur connaît chaque commande,
+chaque champ de police, chaque bouton,
+
+00:32:56.050 --> 00:32:59.913
+ou chaque message clairement,
+Tu te débrouilles très bien.
+
+00:33:00.497 --> 00:33:03.781
+Si vous l'utilisez et que vous lisez
+et vous entendez quelque chose
+
+00:33:03.801 --> 00:33:05.678
+bouton « J’aime » sans étiquette,
+
+00:33:05.698 --> 00:33:08.503
+cela signifie votre code
+Il manque quelque chose.
+
+00:33:09.444 --> 00:33:13.899
+En particulier pour le HTML sémantique,
+Il vous manque des étiquettes ARIA,
+
+00:33:13.919 --> 00:33:15.687
+ou bien il vous manque des attributs.
+
+00:33:16.304 --> 00:33:19.518
+Enfin, vous pouvez faire
+cette analyse automatique.
+
+00:33:19.906 --> 00:33:24.056
+Vous pouvez utiliser, par exemple, Lighthouse,
+vous pouvez utiliser Chrome Dev,
+
+00:33:24.076 --> 00:33:27.670
+ou même vous pouvez utiliser
+toute autre station de navigation
+
+00:33:27.690 --> 00:33:31.189
+pour commencer à tester ce qui se passe
+dans votre plugin.
+
+00:33:31.703 --> 00:33:35.937
+Ces outils ne figureront pas
+votre code automatiquement
+
+00:33:35.957 --> 00:33:38.640
+Parce que ce n'est qu'un test.
+
+00:33:38.660 --> 00:33:43.617
+Mais ceci vous le dira
+Ce que vous devez corriger dans votre code.
+
+00:33:43.637 --> 00:33:46.292
+Il vous indiquera par où commencer à chercher.
+
+00:33:46.312 --> 00:33:49.205
+dans votre plugin
+ou à l'intérieur de votre interface.
+
+00:33:49.789 --> 00:33:55.055
+N'oubliez pas que WordPress est utilisé
+par de nombreux gens sur Internet.
+
+00:33:55.724 --> 00:33:58.454
+Lorsque le plugin échoue
+l'accessibilité,
+
+00:33:58.474 --> 00:34:00.397
+cela multipliera le programme
+
+00:34:00.417 --> 00:34:04.156
+à travers plusieurs milliers
+des utilisateurs de WordPress.
+
+00:34:05.272 --> 00:34:09.795
+Essayez toujours de tester l'accessibilité
+avant la publication
+
+00:34:10.015 --> 00:34:14.408
+car cela garantira que
+Votre code ne se contente pas de fonctionner.
+
+00:34:15.194 --> 00:34:17.612
+Vous pouvez garantir que
+Ça fonctionne pour tout le monde.
+
+00:34:19.335 --> 00:34:21.150
+Je pense que cette dernière étape
+
+00:34:21.170 --> 00:34:25.804
+transformera votre plugin
+Du fonctionnel à l'inclusif.
+
+00:34:26.597 --> 00:34:29.728
+Voilà le véritable objectif
+pour l'accessibilité.
+
+00:34:29.748 --> 00:34:30.757
+C'est tout pour le moment.
+
+00:34:31.221 --> 00:34:35.216
+Je vous encourage à postuler
+cette pratique dans votre plugin.
+
+00:34:35.236 --> 00:34:38.818
+Partagez vos conclusions
+avec la communauté et continuez d'apprendre.
+
+00:34:38.838 --> 00:34:41.902
+Souviens-toi,
+L'accessibilité est un voyage continu
+
+00:34:41.922 --> 00:34:47.459
+et chaque ligne de code accessible
+renforcer l'écosystème WordPress.
+
+00:34:47.479 --> 00:34:51.688
+Merci de votre attention,
+pour votre intérêt pour l'accessibilité,
+
+00:34:51.708 --> 00:34:54.999
+et pour avoir contribué à la création du web
+Un endroit meilleur pour tous.
+
+00:35:02.480 --> 00:35:03.699
+<v title="Sherose Badruddin"> Incroyable.
+
+00:35:03.700 --> 00:35:05.479
+Merci pour
+Votre présentation, Osdeibi.
+
+00:35:05.480 --> 00:35:07.759
+C'était très instructif,
+dans vos instructions
+
+00:35:07.760 --> 00:35:11.359
+ou vos exemples
+étaient très, très détaillés.
+
+00:35:11.360 --> 00:35:13.219
+J'ai l'impression que c'était le cas.
+
+00:35:13.220 --> 00:35:15.319
+et puis il y en avait beaucoup
+de la conversation dans le chat.
+
+00:35:15.320 --> 00:35:19.399
+Nous avons un tas de questions,
+Alors je vais me lancer directement.
+
+00:35:19.400 --> 00:35:21.949
+Le public, nous devrions avoir le temps
+
+00:35:21.950 --> 00:35:23.569
+pour plus de questions
+que ce qui est déjà
+
+00:35:23.570 --> 00:35:25.459
+dans la section questions-réponses, alors n'hésitez pas.
+
+00:35:25.460 --> 00:35:27.019
+Allez-y, mettez-les là.
+
+00:35:27.020 --> 00:35:29.089
+Je veux parler de
+quelque chose que vous avez mentionné
+
+00:35:29.090 --> 00:35:30.799
+dans le chat que je pense
+pourrait être important,
+
+00:35:30.800 --> 00:35:34.529
+surtout que nous sommes
+une conférence internationale.
+
+00:35:35.000 --> 00:35:39.349
+Tu as parlé de ne pas être
+un locuteur natif anglais et trouver
+
+00:35:39.350 --> 00:35:42.769
+la documentation de ce plug-in
+était souvent rédigé en anglais.
+
+00:35:42.770 --> 00:35:44.779
+Je ne suis pas non plus de langue maternelle anglaise.
+mais j'ai parlé
+
+00:35:44.780 --> 00:35:47.059
+depuis longtemps, donc je suis à l'aise,
+
+00:35:47.060 --> 00:35:49.609
+mais si je devais lire
+dans une autre langue,
+
+00:35:49.610 --> 00:35:51.199
+J'aurais aussi des difficultés.
+
+00:35:51.200 --> 00:35:54.649
+La question qui m'a été posée
+la question est de savoir si vous avez déjà essayé des outils d'IA.
+
+00:35:54.650 --> 00:35:58.379
+pour la traduction, et si oui,
+Qu'est-ce qui a fonctionné pour vous ?
+
+00:35:59.210 --> 00:36:02.839
+<v title="Osdeibi Acurero"> Oh oui,
+J'utilise ChatGPT.
+
+00:36:02.840 --> 00:36:05.479
+parce que par exemple,
+dans mon voyage commençant
+
+00:36:05.480 --> 00:36:08.659
+pour un nouveau plugin,
+Je connais un peu d'anglais,
+
+00:36:08.660 --> 00:36:10.549
+pour que je puisse écrire des étiquettes,
+
+00:36:10.550 --> 00:36:14.059
+Je peux écrire du texte,
+mais il y a du contenu
+
+00:36:14.060 --> 00:36:16.969
+qui dépassent ma compréhension,
+
+00:36:16.970 --> 00:36:21.280
+J'utilise donc ces outils,
+Outils d'IA, principalement ChatGPT
+
+00:36:21.410 --> 00:36:24.679
+pour cela,
+mais parfois la traduction
+
+00:36:24.680 --> 00:36:28.670
+Ce n'est pas exact à 100%, mais je veux dire,
+
+00:36:28.700 --> 00:36:31.479
+si vous utilisez l'IA
+ou en utilisant n'importe quel outil,
+
+00:36:31.480 --> 00:36:34.380
+c'est un bon début, et si vous ne le faites pas,
+
+00:36:35.400 --> 00:36:37.999
+Tu n'es pas bon en anglais
+
+00:36:38.000 --> 00:36:40.919
+ou dans une autre langue et vous le souhaitez
+pour rendre votre plugin accessible
+
+00:36:40.920 --> 00:36:43.879
+dans une autre langue,
+Je pense que l'approche
+
+00:36:43.880 --> 00:36:46.399
+va interagir directement avec l'IA,
+
+00:36:46.400 --> 00:36:50.367
+Il y a donc beaucoup d'outils
+que vous pouvez utiliser pour cela.
+
+00:36:50.540 --> 00:36:55.620
+Vous pouvez aussi toujours demander
+pour obtenir l'aide de la communauté,
+
+00:36:56.020 --> 00:36:57.539
+donc quelque chose
+que j'aime pour WordPress
+
+00:36:57.540 --> 00:37:00.539
+c'est comme tous les WordCamps auxquels je participe,
+
+00:37:00.540 --> 00:37:04.669
+J'ai écrit directement
+à la table du traducteur,
+
+00:37:04.670 --> 00:37:06.339
+et ils disent : « Salut les gars, comment allez-vous ? »
+
+00:37:06.340 --> 00:37:10.783
+J'ai deux projets ici,
+J'ai donc besoin d'aide pour la traduction.
+
+00:37:11.240 --> 00:37:15.286
+Vous y trouverez également non seulement
+dans les outils automatiques,
+
+00:37:15.950 --> 00:37:19.780
+C'est un bon début.
+mais vous pouvez aussi compter sur
+
+00:37:19.820 --> 00:37:21.886
+également au sein de la communauté.
+
+00:37:22.760 --> 00:37:23.539
+<v title="Sherose Badruddin"> Incroyable.
+
+00:37:23.540 --> 00:37:25.689
+C'est tout à fait logique.
+
+00:37:27.470 --> 00:37:28.939
+Quels sont les problèmes les plus courants
+
+00:37:28.940 --> 00:37:32.352
+que vous trouvez
+lors de l'audit des plugins ?
+
+00:37:32.540 --> 00:37:34.139
+<v title="Osdeibi"> Je pense
+dans la plupart des cas,
+
+00:37:34.140 --> 00:37:39.140
+comme quand vous commencez
+audit des plugins,
+
+00:37:40.020 --> 00:37:43.189
+Je pense que le plus gros problème
+est le HTML sémantique.
+
+00:37:43.190 --> 00:37:46.759
+Par exemple,
+Il manque beaucoup d'étiquettes.
+
+00:37:46.760 --> 00:37:50.880
+Par exemple, à l'intérieur du formulaire de contact
+
+00:37:50.990 --> 00:37:52.519
+ou sous toute autre forme, vous verrez
+
+00:37:52.520 --> 00:37:54.099
+qu'il manque des étiquettes
+
+00:37:54.100 --> 00:37:58.699
+parce que quelque chose
+comme je le dis dans ma présentation,
+
+00:37:58.700 --> 00:38:02.299
+comme la plupart des créateurs
+supprimer l'étiquette visuelle,
+
+00:38:02.300 --> 00:38:05.394
+et aussi les développeurs
+Supprimer le code.
+
+00:38:07.120 --> 00:38:11.079
+Je pense que c'est le plus grand
+problème lorsque vous travaillez
+
+00:38:11.080 --> 00:38:12.589
+avec des plugins dans le [incompréhensible].
+
+00:38:12.590 --> 00:38:16.139
+De plus, lorsque le plugin n'a pas
+
+00:38:16.140 --> 00:38:18.679
+la navigation par onglets dans le mot-clé,
+
+00:38:18.680 --> 00:38:21.649
+c'est un problème
+parce que la plupart des gens utilisent,
+
+00:38:21.650 --> 00:38:24.349
+Ils n'utilisent pas seulement un lecteur d'écran,
+
+00:38:24.350 --> 00:38:28.666
+ils peuvent utiliser un ordinateur
+avec tout autre outil,
+
+00:38:28.676 --> 00:38:31.480
+Ils se fient donc uniquement au mot-clé.
+
+00:38:32.120 --> 00:38:33.589
+Je pense que c'est un gros problème.
+
+00:38:33.590 --> 00:38:36.235
+Un autre problème réside dans le contraste.
+
+00:38:38.270 --> 00:38:41.364
+Vous n'en avez pas besoin
+avoir un problème visuel,
+
+00:38:41.390 --> 00:38:44.179
+commencer à expérimenter
+problèmes de contraste.
+
+00:38:44.180 --> 00:38:49.335
+Parce que, par exemple, dans mon cas,
+Je peux passer environ 10 heures
+
+00:38:49.340 --> 00:38:51.529
+dans l'ordinateur, en train de travailler sur quelque chose.
+
+00:38:51.530 --> 00:38:54.709
+Lorsque je passe à une autre page de réseau social
+
+00:38:54.710 --> 00:38:57.649
+ou une page sur deux,
+Je vois un contraste élevé,
+
+00:38:57.650 --> 00:39:00.460
+Et cela me stresse beaucoup.
+
+00:39:03.260 --> 00:39:06.079
+Cela peut arriver
+également dans les plugins.
+
+00:39:06.080 --> 00:39:07.619
+Par exemple,
+si vous avez quelque chose
+
+00:39:07.620 --> 00:39:09.229
+dans votre administrateur
+
+00:39:09.230 --> 00:39:13.276
+ou même cela est quelque chose
+différent sur votre site.
+
+00:39:15.260 --> 00:39:18.702
+Je pense que c'est le plus grand
+problème au démarrage.
+
+00:39:18.703 --> 00:39:21.419
+C'est comme s'ils ne suivaient pas
+
+00:39:21.420 --> 00:39:23.817
+ainsi que le HTML sémantique.
+
+00:39:25.220 --> 00:39:27.529
+<v title="Sherose"> Le HTML sémantique est tellement important.
+
+00:39:27.530 --> 00:39:29.989
+J'ai remarqué dans votre réponse,
+
+00:39:29.990 --> 00:39:32.059
+mais aussi dans les exemples
+que vous avez partagé,
+
+00:39:32.060 --> 00:39:35.029
+que de nombreux vos stratégies
+sont similaires
+
+00:39:35.030 --> 00:39:38.419
+à ceux que quelqu'un
+je l'utiliserais pour auditer un site.
+
+00:39:38.420 --> 00:39:40.459
+Personnellement,
+Pour parler en mon nom propre,
+
+00:39:40.460 --> 00:39:41.859
+Je ne savais pas que DevTools pouvait faire ça.
+
+00:39:41.860 --> 00:39:43.909
+Tout ce que vous avez montré.
+
+00:39:43.910 --> 00:39:47.689
+Je vais devoir le revoir
+Écoutez cet enregistrement et prenez davantage de notes.
+
+00:39:47.690 --> 00:39:49.549
+C'est vraiment utile,
+Je pense qu'il faut également souligner
+
+00:39:49.550 --> 00:39:52.909
+parce que cela montre que c'est possible
+
+00:39:52.910 --> 00:39:54.259
+auditer ces plugins
+
+00:39:54.260 --> 00:39:56.629
+et il y a comme
+une manière conviviale de le faire.
+
+00:39:56.630 --> 00:39:58.189
+Il pourrait simplement s'agir d'un outil de navigateur
+
+00:39:58.190 --> 00:39:59.419
+que vous n'avez même pas besoin de télécharger.
+
+00:39:59.420 --> 00:40:00.059
+C'est juste là.
+
+00:40:00.060 --> 00:40:00.699
+J'adore ça.
+
+00:40:00.700 --> 00:40:03.589
+Je pense que cela rend les tests
+
+00:40:03.590 --> 00:40:06.139
+de l'accessibilité
+accessible, n'est-ce pas ?
+
+00:40:06.140 --> 00:40:07.379
+<v title="Osdeibi"> Oui, bien sûr.
+
+00:40:07.380 --> 00:40:10.099
+De plus, pas seulement dans l'outil de développement,
+Par exemple,
+
+00:40:10.100 --> 00:40:13.219
+vous pouvez trouver
+les plugins dans WordPress
+
+00:40:13.220 --> 00:40:15.889
+qui vous aident à vérifier
+votre accessibilité.
+
+00:40:15.890 --> 00:40:18.469
+Vous pouvez aussi aller
+directement dans votre navigateur
+
+00:40:18.470 --> 00:40:21.644
+et commencez l'installation
+attention, en regardant--
+
+00:40:22.260 --> 00:40:26.180
+Une fois que vous avez ouvert l'idée
+d'accessibilité,
+
+00:40:26.450 --> 00:40:28.847
+Vous trouverez de nombreux outils.
+
+00:40:30.590 --> 00:40:32.499
+<v title="Sherose"> Nous avons
+D'autres questions dans le chat,
+
+00:40:32.500 --> 00:40:36.259
+mais je veux vous poser une question
+à propos de ce que vous avez dit ici.
+
+00:40:36.260 --> 00:40:38.089
+Lorsque vous trouvez un problème,
+
+00:40:38.090 --> 00:40:41.422
+Vous arrive-t-il de prendre contact ?
+à l'auteur du plugin ?
+
+00:40:42.200 --> 00:40:44.059
+<v title="Osdeibi"> Désolé, pouvez-vous s'il vous plaît
+Répétez la question ?
+
+00:40:44.060 --> 00:40:44.699
+<v title="Sherose"> Bien sûr.
+
+00:40:44.700 --> 00:40:46.129
+Chaque fois que vous rencontrez des problèmes,
+
+00:40:46.130 --> 00:40:48.949
+Par exemple, disons que vous avez trouvé
+un problème assez grave,
+
+00:40:48.950 --> 00:40:50.689
+Vous arrive-t-il de contacter l'auteur ?
+
+00:40:50.690 --> 00:40:53.784
+Si oui, de quel type
+Quelle réponse obtenez-vous ?
+
+00:40:53.980 --> 00:40:56.449
+<v title="Osdeibi"> Oh, eh bien,
+C'est un problème
+
+00:40:56.450 --> 00:40:58.820
+parce que lorsque vous faites-
+
+00:40:59.810 --> 00:41:01.759
+Je vais être
+au-delà des plugins également.
+
+00:41:01.760 --> 00:41:04.059
+Par exemple,
+Je vais prendre l'exemple le plus courant
+
+00:41:04.060 --> 00:41:06.374
+lorsque vous créez un site.
+
+00:41:06.530 --> 00:41:07.567
+Lorsque vous créez un site,
+
+00:41:07.568 --> 00:41:11.852
+la plupart des décisions
+ne comptez pas sur vous en tant que développeur.
+
+00:41:12.800 --> 00:41:17.870
+Par exemple, vous avez un projet
+Monsieur le responsable, vous avez une exigence.
+
+00:41:20.150 --> 00:41:24.840
+Je pense que c'est difficile
+pour éviter ce problème.
+
+00:41:25.520 --> 00:41:29.540
+Je pense que lorsque cela se produira,
+c'est comme si vous éleviez
+
+00:41:29.640 --> 00:41:31.699
+la main et dire : « D'accord,
+J'ai un problème avec ça.
+
+00:41:31.700 --> 00:41:34.579
+J'ai trouvé ce problème
+ici avec l'accessibilité.
+
+00:41:34.580 --> 00:41:36.953
+C'est possible, par exemple,
+
+00:41:36.954 --> 00:41:41.150
+voir la nouvelle version ou,
+Par exemple, nous pouvons changer
+
+00:41:41.240 --> 00:41:43.399
+ceci pour le rendre plus accessible.
+
+00:41:43.400 --> 00:41:47.732
+Parfois, quand cela arrive
+c'est parce que lorsque vous recevez
+
+00:41:47.733 --> 00:41:50.299
+l'exigence
+pour commencer à y travailler,
+
+00:41:50.300 --> 00:41:53.539
+la majeure partie du projet lui-même,
+ou chef de projet
+
+00:41:53.540 --> 00:41:56.689
+ou le client lui-même, ne dépend pas
+
+00:41:56.690 --> 00:41:59.479
+allumé ou indifférent
+à propos de l'accessibilité.
+
+00:41:59.480 --> 00:42:01.419
+Dans la plupart des cas, par exemple,
+
+00:42:01.420 --> 00:42:03.379
+lorsque vous créez un site,
+
+00:42:03.380 --> 00:42:07.506
+ils dépendent de l'accessibilité
+comme une mesure pour le référencement naturel.
+
+00:42:07.640 --> 00:42:10.700
+Je pense que oui,
+C'est un gros problème là-bas.
+
+00:42:12.350 --> 00:42:15.704
+<v title="Sherose"> Apporte réellement
+Nous répondons ici à une question du public.
+
+00:42:15.705 --> 00:42:17.899
+Vous avez écrit dans le commentaire
+cette accessibilité commence
+
+00:42:17.900 --> 00:42:19.849
+avec les développeurs, selon vous.
+
+00:42:19.850 --> 00:42:22.939
+Qu'est-ce qui empêche les développeurs ?
+adopter cet état d'esprit ?
+
+00:42:22.940 --> 00:42:26.689
+Pensez-vous que ce soit une expérience de vie ?
+ou tout simplement ne pas avoir
+
+00:42:26.690 --> 00:42:29.864
+la connaissance
+Concevoir pour l'accessibilité ?
+
+00:42:30.560 --> 00:42:36.109
+<v title="Osdeibi"> Je ne pense pas que ce soit une grande chute
+
+00:42:36.110 --> 00:42:38.959
+du développeur lui-même car,
+Par exemple, d'après mon expérience,
+
+00:42:38.960 --> 00:42:44.300
+quand je commencerai à apprendre le PHP et le HTML,
+et JavaScript,
+
+00:42:44.720 --> 00:42:49.019
+tous les cours et toutes les vidéos
+que j'ai trouvé sur internet
+
+00:42:49.020 --> 00:42:52.039
+et tout l'apprentissage,
+ils vont directement comme
+
+00:42:52.040 --> 00:42:56.839
+car la solution est celle-ci
+Vous pouvez créer un site.
+
+00:42:56.840 --> 00:43:00.728
+Dans cette étape,
+quand vous commencez et que vous le faites,
+
+00:43:00.800 --> 00:43:04.846
+il existe certaines théories
+derrière ce que tu as laissé derrière toi,
+
+00:43:04.910 --> 00:43:07.472
+Par exemple, le HTML sémantique.
+
+00:43:08.480 --> 00:43:12.315
+Je pense que le problème est que,
+comme la plupart des leçons gratuites
+
+00:43:12.316 --> 00:43:15.359
+que vous trouvez sur internet,
+ne vous apprend pas,
+
+00:43:15.360 --> 00:43:18.772
+comme pour le HTML sémantique,
+comme un basique facile.
+
+00:43:19.220 --> 00:43:21.109
+Vous devez écrire un code élégant
+
+00:43:21.110 --> 00:43:25.314
+que vous verrez dans votre éditeur,
+mais vous devez aussi écrire un code
+
+00:43:25.315 --> 00:43:28.647
+pour tous
+quand ils passent à autre chose.
+
+00:43:28.970 --> 00:43:32.119
+Je pense que le plus gros problème
+qu'il ne s'agit pas d'un développeur lui-même.
+
+00:43:32.120 --> 00:43:36.220
+Je pense que c'est grâce à l'éducation.
+documentation
+
+00:43:36.770 --> 00:43:41.540
+et aussi l'apprentissage
+le chemin qu'ils choisissent.
+
+00:43:42.350 --> 00:43:43.849
+<v title="Sherose"> Je pense
+Tu es juste là.
+
+00:43:43.850 --> 00:43:46.279
+Alors peut-être aussi comme
+si vous ne travaillez pas
+
+00:43:46.280 --> 00:43:47.899
+pour quelqu'un, comme vous l'avez mentionné,
+
+00:43:47.900 --> 00:43:50.139
+Il y a tellement de gens
+parfois impliqués dans ces projets.
+
+00:43:50.140 --> 00:43:51.339
+Si vous ne travaillez pas avec quelqu'un
+
+00:43:51.340 --> 00:43:53.531
+dans l'équipe
+qui contient ces informations,
+
+00:43:53.532 --> 00:43:55.099
+alors il est déjà manquant
+dans votre culture.
+
+00:43:55.100 --> 00:43:58.489
+Il a déjà disparu.
+de votre processus d'accessibilité.
+
+00:43:58.490 --> 00:44:00.769
+Cela conduit en fait
+à une autre question du public.
+
+00:44:00.770 --> 00:44:03.219
+Comment avez-vous été présentés ?
+à l'accessibilité,
+
+00:44:03.220 --> 00:44:06.709
+et combien de temps cela a-t-il pris ?
+Comment en êtes-vous arrivé là où vous êtes aujourd'hui ?
+
+00:44:06.710 --> 00:44:09.709
+Avez-vous des conseils ?
+pour les développeurs de plugins qui souhaitent
+
+00:44:09.710 --> 00:44:12.963
+pour en savoir plus sur
+Qu'avez-vous partagé aujourd'hui ?
+
+00:44:14.675 --> 00:44:15.939
+<v title="Osdeibi"> Ça m'a pris un certain temps
+
+00:44:15.940 --> 00:44:19.590
+parce que durant toutes mes années
+travaillant comme développeur,
+
+00:44:20.600 --> 00:44:22.259
+Je ne me soucie jamais de l'accessibilité.
+
+00:44:22.260 --> 00:44:25.099
+Il m'a fallu un certain temps pour comprendre
+
+00:44:25.100 --> 00:44:28.699
+Qu'est-ce que l'accessibilité ?
+parce qu'au début,
+
+00:44:28.700 --> 00:44:32.746
+Je recherchais l'accessibilité
+en tant que mesure pour le référencement naturel,
+
+00:44:32.820 --> 00:44:36.219
+et je ne sais pas,
+pour peut-être un outil fou
+
+00:44:36.220 --> 00:44:40.742
+sur Internet, cela a montré
+me dire que tout va bien se passer.
+
+00:44:41.630 --> 00:44:44.359
+Je crois que c'était il y a environ cinq ans,
+
+00:44:44.360 --> 00:44:47.981
+J'ai réalisé que prendre en compte l'accessibilité
+
+00:44:47.982 --> 00:44:51.740
+Pour de vrai, et pour un sujet sérieux.
+
+00:44:54.800 --> 00:44:58.792
+Je crois que ça a duré environ cinq ans.
+il y a longtemps, quand j'ai commencé à réaliser
+
+00:44:58.793 --> 00:45:02.443
+qu'il est important
+Rendre le web accessible.
+
+00:45:03.580 --> 00:45:07.370
+J'espère que lorsque je commencerai,
+
+00:45:07.670 --> 00:45:10.340
+J'aime beaucoup, par exemple,
+
+00:45:10.700 --> 00:45:15.381
+Découvrez toutes les options d'accessibilité
+parce que si je l'avais fait il y a 10 ans
+
+00:45:15.760 --> 00:45:17.679
+pour l'accessibilité à l'intérieur de mon code,
+
+00:45:17.680 --> 00:45:23.360
+Je pense pouvoir développer
+Un meilleur site, créé de A à Z.
+
+00:45:24.950 --> 00:45:27.850
+Je pense que mon conseil aux nouveaux développeurs est le suivant :
+
+00:45:27.860 --> 00:45:30.439
+qu'ils essaient
+pour construire dans le plugin
+
+00:45:30.440 --> 00:45:32.809
+se concentrer sur le HTML sémantique.
+
+00:45:32.810 --> 00:45:34.249
+C'est la première chose
+que vous devez faire.
+
+00:45:34.250 --> 00:45:37.129
+Par exemple, allez directement
+à partir de votre formulaire et allez
+
+00:45:37.130 --> 00:45:39.259
+Pour accéder aux étiquettes, allez dans les entrées.
+
+00:45:39.260 --> 00:45:41.149
+Peu importe ce que vous faites
+
+00:45:41.150 --> 00:45:44.149
+un plugin plus petit ou plus grand
+ou un plugin important,
+
+00:45:44.150 --> 00:45:48.355
+ou c'est juste un projet du dimanche
+que vous êtes en train de faire.
+
+00:45:48.890 --> 00:45:53.540
+Parce que c'est petit
+effort à l'intérieur de notre code à l'intérieur
+
+00:45:54.140 --> 00:45:55.779
+que nous faisons dans le plugin,
+
+00:45:55.780 --> 00:45:57.529
+Cela va améliorer l'accessibilité.
+
+00:45:57.530 --> 00:46:00.340
+et cela aidera tous les sites web.
+
+00:46:00.800 --> 00:46:05.780
+Je pense que lorsque vous commencez
+au moins un HTML sémantique,
+
+00:46:05.810 --> 00:46:09.919
+du moins lorsque vous mettez
+une étiquette à l'intérieur du formulaire,
+
+00:46:09.920 --> 00:46:11.659
+Vous contribuez à améliorer l'accessibilité.
+
+00:46:11.660 --> 00:46:17.659
+De plus, vous êtes comme si vous faisiez
+une conversion,
+
+00:46:17.660 --> 00:46:21.050
+De plus, vous vous concentrez uniquement sur cela.
+
+00:46:21.700 --> 00:46:23.329
+en tant que développeur dans votre code,
+
+00:46:23.330 --> 00:46:26.299
+et vous êtes également attentionné.
+à propos des autres.
+
+00:46:26.300 --> 00:46:27.379
+<v title="Sherose"> Vous avez raison.
+
+00:46:27.380 --> 00:46:30.554
+Je fais juste ce travail
+elle comporte ses propres avantages.
+
+00:46:32.220 --> 00:46:34.459
+La question suivante, je pense,
+c'est un peu difficile.
+
+00:46:34.460 --> 00:46:38.330
+WordPress devrait-il,
+en tant que système de contenu, soyez plus ferme
+
+00:46:38.360 --> 00:46:40.279
+en exigeant une accessibilité ?
+
+00:46:40.280 --> 00:46:43.939
+Ou vaut-il mieux laisser faire ?
+aux développeurs, aux concepteurs,
+
+00:46:43.940 --> 00:46:47.079
+et les auteurs de contenu
+assumer cette responsabilité ?
+
+00:46:47.080 --> 00:46:48.229
+<v title="Osdeibi"> Oui.
+
+00:46:48.230 --> 00:46:49.966
+C'est une question difficile.
+
+00:46:52.115 --> 00:46:54.859
+Cela dépend de l'endroit où vous cherchez.
+
+00:46:54.860 --> 00:46:57.349
+le plugin lui-même parce que,
+Par exemple,
+
+00:46:57.350 --> 00:46:58.819
+J'adore le déploiement en tant que développeur,
+
+00:46:58.820 --> 00:47:03.320
+et je pense au déploiement
+Il deviendra une star en tant que développeur.
+
+00:47:04.820 --> 00:47:10.059
+Lorsque vous travaillez au sein d'une équipe plus importante,
+une plus grande entreprise, je pense
+
+00:47:10.060 --> 00:47:12.996
+la responsabilité
+Il faudrait commencer par là.
+
+00:47:13.610 --> 00:47:18.950
+Je pense que WordPress
+peut faire quelque chose à ce sujet.
+
+00:47:19.160 --> 00:47:22.579
+Par exemple, cela peut encourager
+tu devrais le faire, mais je ne pense pas
+
+00:47:22.580 --> 00:47:24.659
+cela peut vous forcer à le faire
+
+00:47:24.660 --> 00:47:27.860
+parce qu'il y en a beaucoup
+limitations.
+
+00:47:27.890 --> 00:47:34.379
+Je pense que la demande
+L'accessibilité viendra
+
+00:47:34.380 --> 00:47:38.719
+du client lui-même
+ou la personne qui réalise ce projet.
+
+00:47:38.720 --> 00:47:41.539
+Par exemple,
+quelque chose dont j'ai parlé
+
+00:47:41.540 --> 00:47:46.669
+Dans ma présentation, j'ai dit que je travaillais
+sur un projet dans le cadre de mon travail actuel,
+
+00:47:46.670 --> 00:47:49.606
+et nous développons un outil médical.
+
+00:47:50.510 --> 00:47:51.700
+Pour la loi,
+
+00:47:57.590 --> 00:48:01.219
+nous devons créer tout le système
+accessible parce que c'est la loi.
+
+00:48:01.220 --> 00:48:03.699
+Nous ne le faisons pas comme si nous pouvions y aller
+à une amende,
+
+00:48:03.700 --> 00:48:09.939
+Cela peut aller devant un jury, et cela dépend.
+
+00:48:09.940 --> 00:48:14.433
+Ce n'est pas si facile, par exemple,
+forcer WordPress
+
+00:48:15.830 --> 00:48:18.730
+à exiger cela des développeurs.
+
+00:48:19.340 --> 00:48:20.779
+<v title="Sherose"> Je pense que vous avez raison.
+
+00:48:20.780 --> 00:48:23.449
+Parce que pour faire cela
+cela nécessiterait également la mise en place
+
+00:48:23.450 --> 00:48:27.709
+un processus de test,
+et ensuite trouver des moyens de faire respecter les règles,
+
+00:48:27.710 --> 00:48:29.319
+Et comment gérons-nous les mises à jour ?
+
+00:48:29.320 --> 00:48:31.009
+Il y a vraiment tellement de choses à dire,
+
+00:48:31.010 --> 00:48:33.889
+c'est pourquoi c'est ainsi
+important pour tous
+
+00:48:33.890 --> 00:48:35.839
+apprendre l'accessibilité numérique
+
+00:48:35.840 --> 00:48:39.179
+pour comprendre le HTML sémantique,
+Tout ce que vous avez dit.
+
+00:48:39.180 --> 00:48:40.499
+Osdeibi, nous n'avons plus de temps.
+
+00:48:40.500 --> 00:48:41.299
+Merci beaucoup.
+
+00:48:41.300 --> 00:48:44.779
+Je sais qu'il y a encore beaucoup à faire
+Ce qui se passe dans le chat.
+
+00:48:44.780 --> 00:48:47.259
+Je tiens à dire à notre public,
+
+00:48:47.720 --> 00:48:49.969
+Merci à tous d'avoir participé.
+cette présentation.
+
+00:48:49.970 --> 00:48:52.279
+Vous pouvez continuer
+la conversation dans le chat
+
+00:48:52.280 --> 00:48:58.930
+ou sur les réseaux sociaux en utilisant
+@WPA11yDay et #WPAD2025.
+
+00:48:59.540 --> 00:49:01.299
+Nous vous serions également reconnaissants de bien vouloir y aller.
+
+00:49:01.300 --> 00:49:08.300
+jusqu'en 2025.WPAccessibility.Day/commentaires
+
+00:49:08.930 --> 00:49:10.299
+fournir des commentaires anonymes
+
+00:49:10.300 --> 00:49:12.079
+pour nos intervenants
+sur leur présentation.
+
+00:49:12.080 --> 00:49:15.229
+Vous pouvez également entrer
+pour gagner un t-shirt sur place.
+
+00:49:15.230 --> 00:49:18.109
+À suivre…
+pour démystifier les lecteurs d'écran,
+
+00:49:18.110 --> 00:49:21.019
+votre introduction guidée
+tests d'accessibilité manuels
+
+00:49:21.020 --> 00:49:22.459
+pour les sites WordPress.
+
+00:49:22.460 --> 00:49:25.189
+Cela sera diffusé ensuite à 2 h UTC.
+
+00:49:25.190 --> 00:49:29.633
+et c'est présenté par Deneb Pulsipher
+et Akosua Asabere.
+
+00:49:29.840 --> 00:49:32.019
+J'aimerais également vous proposer
+
+00:49:32.020 --> 00:49:33.229
+Tout cela est une opportunité
+pendant que vous attendez.
+
+00:49:33.230 --> 00:49:35.239
+N'oubliez pas de visiter
+pages de nos sponsors
+
+00:49:35.240 --> 00:49:38.689
+pour obtenir des cadeaux virtuels et participer
+pour avoir une chance de gagner de superbes prix.
+
+00:49:38.690 --> 00:49:41.004
+À la prochaine séance !
